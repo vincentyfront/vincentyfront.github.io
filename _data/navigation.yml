@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Work Experience" # formerly publications
-    url: /work-experience/
+  - title: "Professional Experience" # formerly publications
+    url: /professional-experience/
 
   - title: "Education" # formerly talks
     url: /education/    
@@ -9,17 +9,17 @@ main:
   - title: "Projects" # formerly teaching
     url: /other-experience/    
     
-  - title: "Other Relevant Experience" # formerly portfolio
-    url: /other-relevant-experience/
+  - title: "Other Experience" # formerly portfolio
+    url: /other-experience/
         
   - title: "Awards & Honors" # formerly blog posts
     url: /awards-and-honors/
 
-  - title: "Get to Know Me"
-    url: /get-to-know-me/
-    
   - title: "CV"
     url: /cv/
+
+  - title: "About Me"
+    url: /about-me/
     
   - title: "Guide"
     url: /markdown/
