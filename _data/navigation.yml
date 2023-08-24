@@ -1,19 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Work Experience" # formerly publications
+    url: /work-experience/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Education" # formerly talks
+    url: /education/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Projects" # formerly teaching
+    url: /other-experience/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Other Relevant Experience" # formerly portfolio
+    url: /other-relevant-experience/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Awards and Honors" # formerly blog posts
+    url: /awards-and-honors/
+
+  - title: "Get to Know Me"
+    url: /get-to-know-me/
     
   - title: "CV"
     url: /cv/
