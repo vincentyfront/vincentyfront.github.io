@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vincenty (Vince)Front"
+  name             : "Vincenty (Vince) Front"
   avatar           : "vincentyfront.jpeg"
-  bio              : 
+  bio              : ""
   location         : "Los Angeles, CA, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
