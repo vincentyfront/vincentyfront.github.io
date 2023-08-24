@@ -7,7 +7,7 @@ main:
     url: /education/    
 
   - title: "Projects" # formerly teaching
-    url: /other-experience/    
+    url: /projects/    
     
   - title: "Other Experience" # formerly portfolio
     url: /other-experience/

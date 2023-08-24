@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Professional Experience"
-permalink: /professional-experience/
-author_profile: false
+title: "Awards & Honors"
+permalink: /awards-and-honors/
+author_profile: true
 redirect_from:
 ---
 

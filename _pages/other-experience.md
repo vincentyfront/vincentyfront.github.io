@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Professional Experience"
-permalink: /professional-experience/
-author_profile: false
+title: "Other Experience"
+permalink: /other-experience/
+author_profile: true
 redirect_from:
 ---
 

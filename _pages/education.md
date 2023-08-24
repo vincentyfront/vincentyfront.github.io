@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Professional Experience"
-permalink: /professional-experience/
-author_profile: false
+title: "Education"
+permalink: /education/
+author_profile: true
 redirect_from:
 ---
 
