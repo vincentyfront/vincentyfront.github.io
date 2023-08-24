@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Professional Experience"
-permalink: /professional-experience/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 redirect_from:
 ---
