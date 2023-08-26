@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 <p class="PE_p">
-  <img src="/images/UCLA_Library_Logo.jpeg" alt="UCLA Library" class="PE_image" hspace="3">
+  <img src="/images/UCLA_Library_Logo.jpeg" alt="UCLA Library" class="PE_image" hspace="5">
   <span class="PE_text"> <strong> UCLA Library Data Science Center </strong>  <em> Westwood, California, USA </em> </span>
 </p>
 
