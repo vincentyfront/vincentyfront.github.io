@@ -13,7 +13,7 @@ redirect_from:
 
 <span class="PE_text">
 Project Manager <br />
-<em> July 2022 – June 2023* </em>
+<em> July 2022 – June 2023 </em>
 * Scoped and delegated work for 5-10 data science projects a quarter for a team of four consultants to assist researchers
 * Oversaw and managed data science workflows and act as main liaison between consultants, supervisors, and clients
 * Upkept and organized the team website, GitHub organization and repositories, and Trello boards on a consistent basis 
