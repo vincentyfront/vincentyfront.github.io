@@ -11,11 +11,13 @@ redirect_from:
   <span class="PE_text"> <strong> UCLA Library Data Science Center </strong> <br /> <em> Westwood, California, USA </em> </span>
 </p>
 
+<span class="PE_text">
 Project Manager \
 *July 2022 – June 2023*
 * Scoped and delegated work for 5-10 data science projects a quarter for a team of four consultants to assist researchers
 * Oversaw and managed data science workflows and act as main liaison between consultants, supervisors, and clients
 * Upkept and organized the team website, GitHub organization and repositories, and Trello boards on a consistent basis 
+</span>
 
 **Data Science Union at UCLA** \
 *Westwood, California, USA*
