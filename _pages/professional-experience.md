@@ -6,8 +6,10 @@ author_profile: true
 redirect_from:
 ---
 
-**UCLA Library Data Science Center** \
-*Westwood, California, USA*
+<p class="PE_p">
+  <img src="images/UCLA_Library_Logo.jpeg" alt="UCLA Library" class="PE_image">
+  <span class="PE_text"> <strong> UCLA Library Data Science Center </strong> <br /> <em> Westwood, California, USA </em> </span>
+</p>
 
 Project Manager \
 *July 2022 – June 2023*

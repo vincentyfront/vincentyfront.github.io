@@ -191,6 +191,21 @@
   }
 }
 
+/* Professional Experience */
+
+.PE_text {
+  align-self: flex-end;
+}
+
+.PE_image {
+  width: 42px;
+  height: 42px;
+}
+
+.PE_p {
+  display: flex;
+}
+
 /*
    Social sharing
    ========================================================================== */
