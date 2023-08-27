@@ -12,15 +12,10 @@ redirect_from:
 </p>
 
 <p>
-<span class="PE_text">
-Project Manager <br />
-<em> July 2022 – June 2023 </em>
-<ul>
+<span class="PE_text"> Project Manager <br /> <em> July 2022 – June 2023 </em> <ul>
     <li>Scoped and delegated work for 5-10 data science projects a quarter for a team of four consultants to assist researchers</li>
     <li>Oversaw and managed data science workflows and act as main liaison between consultants, supervisors, and clients</li>
-    <li>Upkept and organized the team website, GitHub organization and repositories, and Trello boards on a consistent basis</li>
-<ul> </span> 
-</p>
+    <li>Upkept and organized the team website, GitHub organization and repositories, and Trello boards on a consistent basis</li> <ul> </span> </p>
 
 **Data Science Union at UCLA** \
 *Westwood, California, USA*
