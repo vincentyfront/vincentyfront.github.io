@@ -42,8 +42,8 @@ redirect_from:
     Director of Membership <br /> 
     <em>March 2022 – February 2023</em>
     <ul>
-        <li>Spearheaded two recruitment cycles of 200+ applicants by developing a recruitment timeline and coordinating 40+ members to conduct interviews; increased club membership by 40% and club engagement by 60%
-        <li>Organized 10+ club socials to foster community and assisted in maintenance of the club mentorship program
+        <li>Spearheaded two recruitment cycles of 200+ applicants by developing a recruitment timeline and coordinating 40+ members to conduct interviews; increased club membership by 40% and club engagement by 60%</li>
+        <li>Organized 10+ club socials to foster community and assisted in maintenance of the club mentorship program</li>
     </ul> 
     </span> 
 </p>
