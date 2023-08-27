@@ -7,26 +7,28 @@ redirect_from:
 ---
 
 <p class="PE_p">
-  <img src="/images/UCLA_Library_Logo.jpeg" alt="UCLA Library" class="PE_image" hspace="5">
+  <img src="/images/UCLA_Library_Logo.jpeg" alt="UCLA Library" class="PE_image">
   <span class="PE_text"> <strong> UCLA Library Data Science Center </strong>  <br /> 
   <em> Westwood, California, USA </em> 
   </span>
 </p>
 
 <p>
-<span class="PE_text"> Project Manager <br /> 
-<em> July 2022 – June 2023 </em> 
-<ul>
-    <li>Scoped and delegated work for 5-10 data science projects a quarter for a team of four consultants to assist researchers</li>
-    <li>Oversaw and managed data science workflows and act as main liaison between consultants, supervisors, and clients</li>
-    <li>Upkept and organized the team website, GitHub organization and repositories, and Trello boards on a consistent basis</li> 
-<ul> 
-</span> 
+    <span class="PE_text"> Project Manager <br /> 
+    <em> July 2022 – June 2023 </em> 
+    <ul>
+        <li>Scoped and delegated work for 5-10 data science projects a quarter for a team of four consultants to assist researchers</li>
+        <li>Oversaw and managed data science workflows and act as main liaison between consultants, supervisors, and clients</li>
+        <li>Upkept and organized the team website, GitHub organization and repositories, and Trello boards on a consistent basis</li> 
+    </ul> 
+    </span> 
 </p>
 
 <p class="PE_p">
-  <img src="/images/DSU_Logo.jpeg" alt="DSU" class="PE_image" hspace="5">
-  <span class="PE_text"> <strong> Data Science Union at UCLA </strong>  <br /> <em> Westwood, California, USA </em> </span>
+  <img src="/images/DSU_Logo.jpeg" alt="DSU" class="PE_image">
+  <span class="PE_text"> <strong> Data Science Union at UCLA </strong>  <br /> 
+  <em> Westwood, California, USA </em> 
+  </span>
 </p>
 
 <p>
