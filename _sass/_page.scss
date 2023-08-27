@@ -193,16 +193,17 @@
 
 /* Professional Experience */
 
-.PE_text {
+.exp_text {
   align-self: flex-end;
 }
 
-.PE_image {
-  height: 50px;
-  width: 50px;
+.exp_img {
+  height: 40px;
+  width: 40px;
+  display: block;
 }
 
-.PE_p {
+.exp_p {
   display: flex;
 }
 

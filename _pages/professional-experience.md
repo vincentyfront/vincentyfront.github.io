@@ -6,15 +6,15 @@ author_profile: true
 redirect_from:
 ---
 
-<p class="PE_p">
-  <img src="/images/UCLA_Library_Logo.jpeg" alt="UCLA Library" class="PE_image">
-  <span class="PE_text"> <strong> UCLA Library Data Science Center </strong>  <br /> 
+<p class="exp_p">
+  <img src="/images/UCLA_Library_Logo.jpeg" alt="UCLA Library" class="exp_img">
+  <span class="exp_text"> <strong> UCLA Library Data Science Center </strong>  <br /> 
   <em> Westwood, California, USA </em> 
   </span>
 </p>
 
 <p>
-    <span class="PE_text"> Project Manager <br /> 
+    <span class="exp_text"> Project Manager <br /> 
     <em> July 2022 – June 2023 </em> 
     <ul>
         <li>Scoped and delegated work for 5-10 data science projects a quarter for a team of four consultants to assist researchers</li>
@@ -24,15 +24,15 @@ redirect_from:
     </span> 
 </p>
 
-<p class="PE_p">
-  <img src="/images/DSU_Logo.jpeg" alt="DSU" class="PE_image">
-  <span class="PE_text"> <strong> Data Science Union at UCLA </strong>  <br /> 
+<p class="exp_p">
+  <img src="/images/DSU_Logo.jpeg" alt="DSU" class="exp_img">
+  <span class="exp_text"> <strong> Data Science Union at UCLA </strong>  <br /> 
   <em> Westwood, California, USA </em> 
   </span>
 </p>
 
 <p>
-    <span class="PE_text"> Data Scientist <br /> 
+    <span class="exp_text"> Data Scientist <br /> 
     <em> April 2021 – June 2023 </em> 
     <ul>
         <li>Undertook accelerated Python and SQL program for data science including, data manipulation, visualization, and ML</li>
@@ -50,15 +50,15 @@ redirect_from:
 
 ## Events
 
-<p class="PE_p">
-  <img src="/images/DataFest_Logo.jpeg" alt="UCLA Library" class="PE_image">
-  <span class="PE_text"> <strong> 2023 UCLA DataFest </strong>  <br /> 
+<p class="exp_p">
+  <img src="/images/DataFest_Logo.jpeg" alt="UCLA Library" class="exp_img">
+  <span class="exp_text"> <strong> 2023 UCLA DataFest </strong>  <br /> 
   <em> Westwood, California, USA </em> 
   </span>
 </p>
 
 <p>
-    <span class="PE_text"> Data Analyst <br /> 
+    <span class="exp_text"> Data Analyst <br /> 
     <em> April 2023 </em> 
     <ul>
         <li>Competition where 4-6 person teams were given a dataset and 48 hours to provide the best analysis</li>
