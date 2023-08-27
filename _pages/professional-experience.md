@@ -63,7 +63,7 @@ redirect_from:
     <ul>
         <li>Competition where 4-6 person teams were given a dataset and 48 hours to provide the best analysis</li>
         <li>Created choropleth maps of ratios of lawyers to clients on a state and county level</li>
-        <li>Was selected as one of the 15 finalists out of over 100 teams</li>
+        <li>Selected as one of the 15 finalists out of over 100 teams</li>
     </ul> 
     </span> 
 </p>
