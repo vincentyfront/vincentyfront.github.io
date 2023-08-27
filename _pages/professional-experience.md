@@ -61,8 +61,9 @@ redirect_from:
     <span class="PE_text"> Data Analyst <br /> 
     <em> April 2023 </em> 
     <ul>
-        <li>Scoped and delegated work for 5-10 data science projects a quarter for a team of four consultants to assist researchers</li>
-        <li>Oversaw and managed data science workflows and act as main liaison between consultants, supervisors, and clients</li>
+        <li>Competition where 4-6 person teams were given a dataset and 48 hours to provide the best analysis</li>
+        <li>Created choropleth maps of ratios of lawyers to clients on a state and county level</li>
+        <li>Was selected as one of the 15 finalists out of over 100 teams</li>
     </ul> 
     </span> 
 </p>
