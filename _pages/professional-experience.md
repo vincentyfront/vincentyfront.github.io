@@ -47,3 +47,22 @@ redirect_from:
     </ul> 
     </span> 
 </p>
+
+## Events
+
+<p class="PE_p">
+  <img src="/images/DataFest_Logo.jpeg" alt="UCLA Library" class="PE_image">
+  <span class="PE_text"> <strong> 2023 UCLA DataFest </strong>  <br /> 
+  <em> Westwood, California, USA </em> 
+  </span>
+</p>
+
+<p>
+    <span class="PE_text"> Data Analyst <br /> 
+    <em> April 2023 </em> 
+    <ul>
+        <li>Scoped and delegated work for 5-10 data science projects a quarter for a team of four consultants to assist researchers</li>
+        <li>Oversaw and managed data science workflows and act as main liaison between consultants, supervisors, and clients</li>
+    </ul> 
+    </span> 
+</p>
