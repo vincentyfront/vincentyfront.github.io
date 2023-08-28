@@ -26,7 +26,7 @@ redirect_from:
 
 <p class="exp_p">
   <img src="/images/Uber_Eats_Logo.png" alt="Uber Eats" class="exp_img">
-  <span class="exp_text"> <strong>UBER Eats</strong>  <br /> 
+  <span class="exp_text"> <strong>Uber Eats</strong>  <br /> 
   <em>Los Angeles, California, USA</em> 
   </span>
 </p>

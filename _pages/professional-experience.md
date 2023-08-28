@@ -37,7 +37,7 @@ redirect_from:
     <ul class="exp_ul">
         <li>Undertook accelerated Python and SQL program for data science including, data manipulation, visualization, and ML</li>
         <li>Participated in five data science projects involving data collection, cleaning, visualization, and machine learning</li>
-    </ul> <br />
+    </ul>
     </span>
 </p>
 
