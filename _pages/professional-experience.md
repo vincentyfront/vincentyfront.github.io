@@ -18,8 +18,8 @@ redirect_from:
     <em> July 2022 – June 2023 </em> 
     <ul class="exp_ul">
         <li>Scoped and delegated work for 5-10 data science projects a quarter for a team of four consultants to assist researchers</li>
-        <li>Oversaw and managed data science workflows and act as main liaison between consultants, supervisors, and clients</li>
-        <li>Upkept and organized the team website, GitHub organization and repositories, and Trello boards on a consistent basis</li> 
+        <li>Oversaw and managed data science pipelines and acted as main liaison between consultants, supervisors, and clients</li>
+        <li>Served as a data science consultant when needed and upkept the team website and GitHub repositories</li> 
     </ul> 
     </span> 
 </p>
@@ -70,3 +70,8 @@ redirect_from:
     </ul> 
     </span> 
 </p>
+
+## Skills
+
+Programming Languages: R (base, tidyverse) (Advanced), Python (numpy, pandas, BeautifulSoup, matplotlib, scikit learn, nltk) (Advanced), SQL (Advanced Beginner), HTML (Beginner) /
+Other Tools: Microsoft Excel, VBA, Tableau, R Shiny, Git, GitHub, Power BI, OpenRefine, QGIS, Jekyll, Microsoft Office, \LaTeX

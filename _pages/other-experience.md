@@ -7,6 +7,19 @@ redirect_from:
 ---
 
 <p class="exp_p">
+  <img src="/images/Trader_Joes_Logo.jpeg" alt="Trader Joes" class="exp_img">
+  <span class="exp_text"> <strong>Trader Joe's</strong>  <br /> 
+  <em>Studio City, California, USA</em> 
+  </span>
+</p>
+
+<p class="exp_p">
+    <span class="exp_text">Crew Member<br /> 
+    <em>August 2023 – Present</em> 
+    </span> 
+</p>
+
+<p class="exp_p">
   <img src="/images/CPK_Logo.png" alt="CPK" class="exp_img">
   <span class="exp_text"> <strong>California Pizza Kitchen</strong>  <br /> 
   <em>Westwood, California, USA</em> 
