@@ -16,7 +16,7 @@ redirect_from:
 <p class="exp_p">
     <span class="exp_text"> Project Manager <br /> 
     <em> July 2022 – June 2023 </em> 
-    <ul>
+    <ul class="exp_ul">
         <li>Scoped and delegated work for 5-10 data science projects a quarter for a team of four consultants to assist researchers</li>
         <li>Oversaw and managed data science workflows and act as main liaison between consultants, supervisors, and clients</li>
         <li>Upkept and organized the team website, GitHub organization and repositories, and Trello boards on a consistent basis</li> 
@@ -34,7 +34,7 @@ redirect_from:
 <p class="exp_p">
     <span class="exp_text"> Data Scientist <br /> 
     <em> April 2021 – June 2023 </em> 
-    <ul>
+    <ul class="exp_ul">
         <li>Undertook accelerated Python and SQL program for data science including, data manipulation, visualization, and ML</li>
         <li>Participated in five data science projects involving data collection, cleaning, visualization, and machine learning</li>
     </ul> <br />
@@ -60,7 +60,7 @@ redirect_from:
 <p class="exp_p">
     <span class="exp_text"> Data Analyst <br /> 
     <em> April 2023 </em> 
-    <ul>
+    <ul class="exp_ul">
         <li>Competition where 4-6 person teams were given a dataset and 48 hours to provide the best analysis</li>
         <li>Created choropleth maps of ratios of lawyers to clients on a state and county level</li>
         <li>Selected as one of the 15 finalists out of over 100 teams</li>
