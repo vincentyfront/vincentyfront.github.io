@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 <p class="exp_p">
-  <img src="/images/UCLA_Library_Logo.jpeg" alt="UCLA Library" class="exp_img">
+  <img src="/images/CPK_Logo.png" alt="CPK" class="exp_img">
   <span class="exp_text"> <strong>California Pizza Kitchen</strong>  <br /> 
   <em>Westwood, California, USA</em> 
   </span>
@@ -25,7 +25,7 @@ redirect_from:
 </p>
 
 <p class="exp_p">
-  <img src="/images/DSU_Logo.jpeg" alt="DSU" class="exp_img">
+  <img src="/images/Uber_Eats_Logo.png" alt="Uber Eats" class="exp_img">
   <span class="exp_text"> <strong>UBER Eats</strong>  <br /> 
   <em>Los Angeles, California, USA</em> 
   </span>
@@ -41,7 +41,7 @@ redirect_from:
 </p>
 
 <p class="exp_p">
-  <img src="/images/DataFest_Logo.jpeg" alt="UCLA Library" class="exp_img">
+  <img src="/images/Art_Camp_Logo.png" alt="Art Camp" class="exp_img">
   <span class="exp_text"> <strong></strong>Summer Art Academy (Art Camp)<br /> 
   <em>Valley Village, California, USA</em> 
   </span>
@@ -60,7 +60,7 @@ redirect_from:
 ## Unpaid Experience
 
 <p class="exp_p">
-  <img src="/images/DataFest_Logo.jpeg" alt="UCLA Library" class="exp_img">
+  <img src="/images/ND_Logo.jpeg" alt="ND" class="exp_img">
   <span class="exp_text"> <strong></strong>Notre Dame High School Basketball Program<br /> 
   <em>Sherman Oaks, California, USA</em> 
   </span>
@@ -76,7 +76,7 @@ redirect_from:
 </p>
 
 <p class="exp_p">
-  <img src="/images/DataFest_Logo.jpeg" alt="UCLA Library" class="exp_img">
+  <img src="/images/Art_Camp_Logo.png" alt="Art Camp" class="exp_img">
   <span class="exp_text"> <strong></strong>Summer Art Academy (Art Camp)<br /> 
   <em>Valley Village, California, USA</em> 
   </span>
