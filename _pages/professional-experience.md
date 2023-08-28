@@ -74,5 +74,6 @@ redirect_from:
 ## Skills
 
 <p class="exp_p"> Programming Languages: R (base, tidyverse) (Advanced), Python (numpy, pandas, BeautifulSoup, matplotlib, scikit learn, nltk) (Advanced), SQL (Advanced Beginner), HTML (Beginner) <br />
+<br  />
 Other Tools: Microsoft Excel, VBA, Tableau, R Shiny, Git, GitHub, Power BI, OpenRefine, QGIS, Jekyll, Microsoft Office, LaTeX
 </p>
