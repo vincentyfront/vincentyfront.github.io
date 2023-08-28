@@ -42,7 +42,7 @@ redirect_from:
 </p>
 
 <p class="exp_p">
-  <img src="/images/ArtCamp_Logo.png" alt="Art Camp" class="exp_img">
+  <img src="/images/Art_Camp_Logo.png" alt="Art Camp" class="exp_img">
   <span class="exp_text"> <strong></strong>Summer Art Academy (Art Camp)<br /> 
   <em>Valley Village, California, USA</em> 
   </span>
@@ -77,7 +77,7 @@ redirect_from:
 </p>
 
 <p class="exp_p">
-  <img src="/images/ArtCamp_Logo.png" alt="Art Camp" class="exp_img">
+  <img src="/images/Art_Camp_Logo.png" alt="Art Camp" class="exp_img">
   <span class="exp_text"> <strong></strong>Summer Art Academy (Art Camp)<br /> 
   <em>Valley Village, California, USA</em> 
   </span>
