@@ -36,7 +36,7 @@ redirect_from:
     <em> April 2021 – June 2023 </em> 
     <ul class="exp_ul">
         <li>Undertook accelerated Python and SQL program for data science including, data manipulation, visualization, and ML</li>
-        <li>Participated in five data science projects involving data collection, cleaning, visualization, and machine learning</li>
+        <li>Participated in five data science projects involving data collection, cleaning, visualization, and machine learning with a team</li>
     </ul>
     </span>
 </p>
