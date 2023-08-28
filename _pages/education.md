@@ -34,7 +34,7 @@ redirect_from:
 <p class="exp_p">
     <span class="exp_text"> High School Diploma <br /> <br />
     GPA: 4.45/4.00 <br />
-    Awards: 2018 Class of 2019's Carl Abato Scholarship for Excellence in Math, California Scholarship Federation Recipient, Principal's Award, 4 time Maxima Cum Laude Recipient, Student Athlete Scholar, <br />
+    Awards: 2018 Class of 2019's Carl Abato Scholarship for Excellence in Math, California Scholarship Federation Recipient, Principal's Award, 4 time Maxima Cum Laude Recipient, Student Athlete Scholar <br />
     Activities: Basketball Team Manager, Student Ambassador, Christian Leader, 9th Grade Representative <br />
     </span> 
 </p>
