@@ -37,7 +37,8 @@ redirect_from:
     <ul>
         <li>Provided swift and friendly customer service while interacting with restaurants and customers</li>
         <li>Involved multitasking and adapting to unexpected situations</li>
-    </ul> <br />
+    </ul>
+    </span>
 </p>
 
 <p class="exp_p">
