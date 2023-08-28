@@ -13,7 +13,7 @@ redirect_from:
   </span>
 </p>
 
-<p>
+<p class="exp_p">
     <span class="exp_text"> Project Manager <br /> 
     <em> July 2022 – June 2023 </em> 
     <ul>
@@ -31,7 +31,7 @@ redirect_from:
   </span>
 </p>
 
-<p>
+<p class="exp_p">
     <span class="exp_text"> Data Scientist <br /> 
     <em> April 2021 – June 2023 </em> 
     <ul>
@@ -57,7 +57,7 @@ redirect_from:
   </span>
 </p>
 
-<p>
+<p class="exp_p">
     <span class="exp_text"> Data Analyst <br /> 
     <em> April 2023 </em> 
     <ul>

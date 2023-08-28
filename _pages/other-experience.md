@@ -13,7 +13,7 @@ redirect_from:
   </span>
 </p>
 
-<p>
+<p class="exp_p">
     <span class="exp_text">Take Out, Busser, and Host<br /> 
     <em>June 2021 – March 2022</em> 
     <ul>
@@ -31,7 +31,7 @@ redirect_from:
   </span>
 </p>
 
-<p>
+<p class="exp_p">
     <span class="exp_text">Delivery Driver<br /> 
     <em>April 2022 – July 2022, August 2020 - March 2021</em> 
     <ul>
@@ -48,7 +48,7 @@ redirect_from:
   </span>
 </p>
 
-<p>
+<p class="exp_p">
     <span class="exp_text">Assistant Cooking Instructor/Camp Counselor<br /> 
     <em>December 2016 - December 2019 (Summers and Winters)</em> 
     <ul>
@@ -67,7 +67,7 @@ redirect_from:
   </span>
 </p>
 
-<p>
+<p class="exp_p">
     <span class="exp_text">Team Manager<br /> 
     <em>November 2015 - March 2019</em> 
     <ul>
@@ -83,7 +83,7 @@ redirect_from:
   </span>
 </p>
 
-<p>
+<p class="exp_p">
     <span class="exp_text"> Junior Counselor <br /> 
     <em> June 2013 - June 2016 (Summers and Winters)</em> 
     <ul>
