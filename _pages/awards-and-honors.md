@@ -69,6 +69,7 @@ redirect_from:
   <span class="exp_text"> <strong>Voice of Democracy Student</strong> <br />
   Veterans of Foreign Wars <br />
   <em>January 2019</em> <br />
+  <br />
   1 of 17 students selected from across California to recieve the the Voice of Democracy scholarship and a 2-day trip touring Sacramento
   </span>
 </p>
@@ -78,6 +79,7 @@ redirect_from:
   <span class="exp_text"> <strong>Los Angeles Immersion Program Student</strong> <br />
   Notre Dame High School<br />
   <em>April 2018</em> <br />
+  <br />
   3-day intensive community service program serving the elderly, unsheltered, and disabled in the Los Angeles community
   </span>
 </p>
