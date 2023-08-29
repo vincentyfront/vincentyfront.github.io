@@ -12,36 +12,26 @@ redirect_from:
   <img src="/images/UCLA_Logo.jpeg" alt="UCLA" class="exp_img">
   <span class="exp_text"> <strong>University of California, Los Angeles</strong>  <br />
   September 2019 – June 2023 <br />
-  <em>Westwood, California, USA</em> 
-  </span>
-</p>
-
-<p class="exp_p">
-    <span class="exp_text">
-    <ul class="exp_ul">
+  <em>Westwood, California, USA</em> <br />
+  <ul class="exp_ul">
         <li>Dean's Honor List</li>
-    </ul> 
-    </span> 
+    </ul>
+  </span>
 </p>
 
 <p class="exp_p">
   <img src="/images/NDHS_Logo.jpeg" alt="NDHS" class="exp_img">
   <span class="exp_text"> <strong>Notre Dame High School</strong>  <br />
   August 2015 – June 2019 <br />  
-  <em>Sherman Oaks, California, USA</em> 
-  </span>
-</p>
-
-<p class="exp_p">
-    <span class="exp_text">
-    <ul class="exp_ul">
+  <em>Sherman Oaks, California, USA</em> <br />
+  <ul class="exp_ul">
         <li>2018 Carl Abato Scholarship for Excellence in Math</li>
         <li>Principal's Award</li>
         <li>California Scholarship Federation Recipient</li>
         <li>4 time Maxima Cum Laude Recipient</li>
         <li>Student Athlete Scholar</li>
-    </ul> 
-    </span> 
+    </ul>
+  </span>
 </p>
 
 <p class="exp_p">
