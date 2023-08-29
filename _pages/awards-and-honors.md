@@ -11,7 +11,6 @@ redirect_from:
 <p class="exp_p">
   <img src="/images/UCLA_Logo.jpeg" alt="UCLA" class="exp_img">
   <span class="exp_text"> <strong>University of California, Los Angeles</strong>  <br />
-  September 2019 – June 2023 <br />
   <em>Westwood, California, USA</em> <br />
   <ul class="exp_ul">
         <li>Dean's Honor List</li>
@@ -22,7 +21,6 @@ redirect_from:
 <p class="exp_p">
   <img src="/images/NDHS_Logo.jpeg" alt="NDHS" class="exp_img">
   <span class="exp_text"> <strong>Notre Dame High School</strong>  <br />
-  August 2015 – June 2019 <br />  
   <em>Sherman Oaks, California, USA</em> <br />
   <ul class="exp_ul">
         <li>2018 Carl Abato Scholarship for Excellence in Math</li>
@@ -37,7 +35,6 @@ redirect_from:
 <p class="exp_p">
   <img src="/images/SFDS_Logo.png" alt="SFDS" class="exp_img">
   <span class="exp_text"> <strong>Saint Francis de Sales School</strong> <br />
-  September 2006 – June 2015 <br />
   <em>Sherman Oaks, California, USA</em> <br />
   <ul class="exp_ul">
         <li>Class of 2015's Excellence in Science Award</li>
@@ -61,7 +58,7 @@ redirect_from:
 
 <p class="exp_p">
   <img src="/images/Immersion_Logo.png" alt="Immersion" class="exp_img">
-  <span class="exp_text"> <strong>Los Angeles Immersion Program Student</strong> <br />
+  <span class="exp_text"> <strong>Los Angeles Immersion Experience Student</strong> <br />
   Notre Dame High School<br />
   <em>April 2018</em> <br />
   <br />
