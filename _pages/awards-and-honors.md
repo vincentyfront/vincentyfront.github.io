@@ -17,6 +17,7 @@ redirect_from:
 </p>
 
 <p class="exp_p">
+    <span class="exp_text">
     <ul class="exp_ul">
         <li>Dean's Honor List</li>
     </ul> 
@@ -32,6 +33,7 @@ redirect_from:
 </p>
 
 <p class="exp_p">
+    <span class="exp_text">
     <ul class="exp_ul">
         <li>2018 Carl Abato Scholarship for Excellence in Math</li>
         <li>Principal's Award</li>
@@ -51,6 +53,7 @@ redirect_from:
 </p>
 
 <p class="exp_p">
+    <span class="exp_text">
     <ul class="exp_ul">
         <li>Class of 2015's Excellence in Science Award</li>
         <li>Class of 2015's Outstanding Altar Server Award</li>
@@ -64,8 +67,9 @@ redirect_from:
 <p class="exp_p">
   <img src="/images/VOD_Logo.png" alt="VOD" class="exp_img">
   <span class="exp_text"> <strong>Voice of Democracy Student</strong> <br />
-  Veteran's of Foreign Wars <br />
-  <em>January 2019</em> 
+  Veterans of Foreign Wars <br />
+  <em>January 2019</em> <br />
+  1 of 17 students selected from across California to recieve the the Voice of Democracy scholarship and a 2-day trip touring Sacramento
   </span>
 </p>
 
@@ -73,7 +77,8 @@ redirect_from:
   <img src="/images/Immersion_Logo.png" alt="Immersion" class="exp_img">
   <span class="exp_text"> <strong>Los Angeles Immersion Program Student</strong> <br />
   Notre Dame High School<br />
-  <em>April 2018</em> 
+  <em>April 2018</em> <br />
+  3-day intensive community service program serving the elderly, unsheltered, and disabled in the Los Angeles community
   </span>
 </p>
 
@@ -81,6 +86,9 @@ redirect_from:
   <img src="/images/Soaring_Valor_Logo.png" alt="Soaring Valor" class="exp_img">
   <span class="exp_text"> <strong>Soaring Valor Student</strong> <br />
   Gary Sinise Foundation <br />
-  <em>October 2017</em> 
+  <em>October 2017</em> <br />
+  <br />
+  1 of 21 students selected from the NDHS Class of 2019 to attend a 2-day trip to the National WWII Museum in New Orleans with WWII Veterans <br />
+  <a href="https://www.youtube.com/watch?v=PKT8j-ZpvDE">Soaring Valor - October 2017 (Notre Dame High School)</a>
   </span>
 </p>
