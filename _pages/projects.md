@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
 ---
 
-<p class="exp_p", id="Proj5">
+<p class="exp_p" id="Proj5">
     <span class="exp_text"> <strong>Analyzing Power Outages After Hurricanes</strong> <br />
     Data Scientist <br />
     <em>January 2023 – March 2023</em> <br />
@@ -18,7 +18,7 @@ redirect_from:
     </span> 
 </p>
 
-<p class="exp_p", id="Proj4">
+<p class="exp_p" id="Proj4">
     <span class="exp_text"> <strong>Predicting MLB Playoff Teams</strong> <br />
     Project Lead <br />
     <em>June 2022 – October 2022</em> <br />
@@ -32,7 +32,7 @@ redirect_from:
     </span> 
 </p>
 
-<p class="exp_p", id="Proj3">
+<p class="exp_p" id="Proj3">
     <span class="exp_text"> <strong>Developing a Matching Algorithim for Private Vendor</strong> <br />
     Data Scientist <br />
     <em>January 2022 – May 2022</em> <br />
@@ -43,7 +43,7 @@ redirect_from:
     </span> 
 </p>
 
-<p class="exp_p", id="Proj2">
+<p class="exp_p" id="Proj2">
     <span class="exp_text"> <strong>Understanding the 2020 U.S. Census</strong> <br />
     Data Scientist <br />
     <em>October 2021 – December 2021</em> <br />
@@ -55,7 +55,7 @@ redirect_from:
     </span> 
 </p>
 
-<p class="exp_p", id="Proj1">
+<p class="exp_p" id="Proj1">
     <span class="exp_text"> <strong>Predicting California Energy Usage and Air Pollution In Wake of the Pandemic</strong> <br />
     Data Scientist <br />
     <em>June 2021 – October 2021</em> <br />
