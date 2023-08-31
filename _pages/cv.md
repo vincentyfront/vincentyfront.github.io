@@ -9,51 +9,67 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Summary of Experience
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Education
+* B.S. in Statistics and Data Science, University of California, Los Angeles, 2023
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Work Experience
+* July 2022 – June 2023: Project Manager (Data Science Consulting)
+  * UCLA Library Data Science Center
+  * Duties included: Faciliating research projects and clients, data science consulting, organizing data science pipline and team structures
+  * Supervisors: Tim Dennis, Zhiyuan Yao
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* April 2021 – June 2023: Data Scientist
+  * Data Science Union at UCLA
+  * Duties included: Data collection, manipulation, visualization, and modeling on several projects
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Skills
+* Programming Languages
+  * R (base, tidyverse, shiny) - Advanced
+  * Python (numpy, pandas, BeautifulSoup, matplotlib, scikit learn, nltk) - Advanced
+  * SQL - Advanced Beginner
+  * HTML/CSS - Beginner
+* Other Tools
+  * Microsoft Excel & VBA
+  * Tableau
+  * GitHub & Git
+  * Power BI
+  * Microsoft Office
+  * OpenRefine
+  * QGIS
+  * Jekyll & GitHub Pages
+  * LaTeX
+* Highest Valued Traits
+  * Teamwork/collaboration
+  * Organized
+  * Detail oriented
+  * Integrity
+  * Zealous
+
+## Projects
+
+* [Analyzing Power Outages After Hurricanes](https://vincentyfront.github.io/projects/#Proj5)
+  * Role: Data Scientist 
+  * Duration: January 2023 – March 2023 
+  * Goal: Look at how long it took for roads and power to be restored after U.S. hurricanes to shape insurance claim prices
+
+* [Predicting MLB Playoff Teams](https://vincentyfront.github.io/projects/#Proj4)
+  * Role: Project Lead 
+  * Duration: June 2022 – October 2022
+  * Goal: Predict which teams would make the MLB playoffs during the 2022 season using team statistics from the past 20 years 
+
+* [Developing a Matching Algorithim for Private Vendor](https://vincentyfront.github.io/projects/#Proj3)
+  * Role: Data Scientist 
+  * Duration: January 2022 – May 2022
+  * Goal: Build a dating app algorithm to match people based on their music preferences
+
+* [Understanding the 2020 U.S. Census](https://vincentyfront.github.io/projects/#Proj2)
+  * Role: Data Scientist 
+  * Duration: October 2021 – December 2021
+  * Goal: Identify key patterns and trends within the 2020 U.S. Census
+
+* [Predicting California Energy Usage and Air Pollution In Wake of the Pandemic](https://vincentyfront.github.io/projects/#Proj1)
+  * Role: Data Scientist 
+  * Duration: June 2021 – October 2021 
+  * Goal: Analyze and predict California's energy usage and air pollution during the COVID-19 pandemic

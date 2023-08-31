@@ -9,7 +9,7 @@ redirect_from:
 <p class="exp_p">
   <img src="/images/UCLA_Library_Logo.jpeg" alt="UCLA Library" class="exp_img">
   <span class="exp_text"> <strong> UCLA Library Data Science Center </strong>  <br /> 
-  <em> Westwood, California, USA </em> 
+  <em> Westwood, California, USA </em>
   </span>
 </p>
 
@@ -73,7 +73,7 @@ redirect_from:
 
 ## Skills
 
-<p class="exp_p"> Programming Languages: R (base, tidyverse) (Advanced), Python (numpy, pandas, BeautifulSoup, matplotlib, scikit learn, nltk) (Advanced), SQL (Advanced Beginner), HTML (Beginner) <br />
+<p class="exp_p"> Programming Languages: R (base, tidyverse) (Advanced), Python (numpy, pandas, BeautifulSoup, matplotlib, scikit learn, nltk) (Advanced), SQL (Advanced Beginner), HTML/CSS (Beginner) <br />
 <br  />
 Other Tools: Microsoft Excel, VBA, Tableau, R Shiny, Git, GitHub, Power BI, OpenRefine, QGIS, Jekyll, Microsoft Office, LaTeX
 </p>
