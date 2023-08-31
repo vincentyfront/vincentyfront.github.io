@@ -11,6 +11,8 @@ redirect_from:
 
 ## Summary of Experience
 
+My name is Vincenty (Vince) Front and I have a B.S. in Statistics and Data Science from UCLA and a minor in Environmental Systems and Society. I am proficient in R, Python, and SQL and have much experience using Tableau and GitHub for data science projects. I am organized, responsible, and value producing easy-to-follow, well documented work. I also pride myself on being able to pick up new skills very quickly. I hope to work in a diverse and collaborative team environment where I can contribute my skills and be myself.
+
 ## Education
 * B.S. in Statistics and Data Science, University of California, Los Angeles, 2023
 
