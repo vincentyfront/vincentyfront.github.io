@@ -28,6 +28,8 @@ redirect_from:
         <li>California Scholarship Federation Recipient</li>
         <li>4 time Maxima Cum Laude Recipient</li>
         <li>Student Athlete Scholar</li>
+        <li>National AP Scholar</li> 
+        <li>AP Scholar with Distinction</li>
     </ul>
   </span>
 </p>

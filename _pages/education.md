@@ -18,6 +18,7 @@ redirect_from:
     <span class="exp_text"> B.S. Statistics and Data Science <br />
     Environmental Systems and Society Minor <br /> 
     <br />
+    <a href="https://vincentyfront.github.io/files/Vincenty_Front_Unofficial_UCLA_Transcript.pdf">Transcript</a> / <a href="https://vincentyfront.github.io/files/Vincenty_Front_UCLA_Coursework.pdf">Coursework</a><br />
     GPA: 3.78/4.00 <br />
     Awards: Dean's Honor List <br />
     Activities: Data Science Union at UCLA, Survivor at UCLA Contestant <br />
@@ -35,8 +36,9 @@ redirect_from:
 <p class="exp_p">
     <span class="exp_text"> High School Diploma <br /> 
     <br />
+    <a href="https://vincentyfront.github.io/files/Vincenty_Front_Unofficial_NDHS_Transcript.pdf">Transcript</a> / <a href="https://vincentyfront.github.io/files/Vincenty_Front_AP_Score_Report.pdf">AP Exam Scores and Awards</a> <br />
     GPA: 4.45/4.00 <br />
-    Awards: 2018 Class of 2019's Carl Abato Scholarship for Excellence in Math, California Scholarship Federation Recipient, Principal's Award, 4 time Maxima Cum Laude Recipient, Student Athlete Scholar <br />
+    Awards: 2018 Class of 2019's Carl Abato Scholarship for Excellence in Math, California Scholarship Federation Recipient, Principal's Award, 4 time Maxima Cum Laude Recipient, National AP Scholar, AP Scholar with Distinction, Student Athlete Scholar <br />
     Activities: Basketball Team Manager, Student Ambassador, Christian Leader, 9th Grade Representative <br />
     </span> 
 </p>
