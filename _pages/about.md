@@ -14,4 +14,4 @@ This website contain's the detailed history of Vincenty Front's lifetime educati
 
 Resume: [Vincenty_Front_Resume.pdf](https://vincentyfront.github.io/files/Vincenty_Front_Resume.pdf)
 
-Cover Letter: [Vincenty_Front_Cover_Letter.pdf](https://vincentyfront.github.io/files/Vincenty_Front_Resume.pdf)
+Cover Letter: [Vincenty_Front_Cover_Letter.pdf](https://vincentyfront.github.io/files/Vincenty_Front_Cover_Letter.pdf)

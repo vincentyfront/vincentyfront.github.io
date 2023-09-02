@@ -26,10 +26,10 @@ redirect_from:
         <li>2018 Carl Abato Scholarship for Excellence in Math</li>
         <li>Principal's Award</li>
         <li>California Scholarship Federation Recipient</li>
-        <li>4 time Maxima Cum Laude Recipient</li>
-        <li>Student Athlete Scholar</li>
         <li>National AP Scholar</li> 
         <li>AP Scholar with Distinction</li>
+        <li>4 time Maxima Cum Laude Recipient</li>
+        <li>Student Athlete Scholar</li>
     </ul>
   </span>
 </p>
