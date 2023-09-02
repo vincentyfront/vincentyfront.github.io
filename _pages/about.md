@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Vincenty Front"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
