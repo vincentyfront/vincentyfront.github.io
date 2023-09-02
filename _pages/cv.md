@@ -78,7 +78,7 @@ My name is Vincenty (Vince) Front and I have a B.S. in Statistics and Data Scien
 
   ## Events
 
-* [2023 UCLA DataFest](https://vincentyfront.github.io/projects/#DataFest)
+* [2023 UCLA DataFest](https://vincentyfront.github.io/professional-experience/#DataFest)
   * Role: Data Scientist
   * Duration: April 2023
   * Goal: Competition where 4-6 person teams were given a dataset and 48 hours to provide the best analysis

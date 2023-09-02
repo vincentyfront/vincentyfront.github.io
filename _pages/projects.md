@@ -51,7 +51,7 @@ redirect_from:
     <ul class="exp_ul">
         <li>Researched and consolidated 2020 U.S. Census data on racial and income proportions by state</li>
         <li>Accessed census data from the U.S. Census API and combined metrics into one data set using pandas</li>
-        <li>Cleaned data using R and made interactive [<a href="https://vincentyfront.github.io/files/USCensus1.png">1</a>, <a href="https://vincentyfront.github.io/files/USCensus1.png">2</a>] and animated visualizations [<a href="https://vincentyfront.github.io/files/USCensus3.html">1</a>, <a href="https://vincentyfront.github.io/files/USCensus4.html">2</a>, <a href="https://vincentyfront.github.io/files/USCensus5.html">3</a>, <a href="https://vincentyfront.github.io/files/USCensus6.html">4</a>] utilizing Python and Tableau</li>
+        <li>Cleaned data using R and made interactive [<a href="https://vincentyfront.github.io/files/USCensus1.png">1</a>, <a href="https://vincentyfront.github.io/files/USCensus2.png">2</a>] and animated visualizations [<a href="https://vincentyfront.github.io/files/USCensus3.html">1</a>, <a href="https://vincentyfront.github.io/files/USCensus4.html">2</a>, <a href="https://vincentyfront.github.io/files/USCensus5.html">3</a>, <a href="https://vincentyfront.github.io/files/USCensus6.html">4</a>] utilizing Python and Tableau</li>
     </ul> 
     </span> 
 </p>
