@@ -75,3 +75,11 @@ My name is Vincenty (Vince) Front and I have a B.S. in Statistics and Data Scien
   * Role: Data Scientist 
   * Duration: June 2021 – October 2021 
   * Goal: Analyze and predict California's energy usage and air pollution during the COVID-19 pandemic
+
+  ## Events
+
+* [2023 UCLA DataFest](https://vincentyfront.github.io/projects/#DataFest)
+  * Role: Data Scientist
+  * Duration: April 2023
+  * Goal: Competition where 4-6 person teams were given a dataset and 48 hours to provide the best analysis
+  * Result: Selected as one of the 15 finalists from over 100 teams

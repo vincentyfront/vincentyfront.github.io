@@ -76,6 +76,6 @@ redirect_from:
   <br />
   1 of 21 students selected from the NDHS Class of 2019 to attend a 2-day trip to the National WWII Museum in New Orleans with WWII Veterans <br />
   <br />
-  <a href="https://www.youtube.com/watch?v=PKT8j-ZpvDE">Soaring Valor - October 2017 (Notre Dame High School)</a>
+  Video: <a href="https://www.youtube.com/watch?v=PKT8j-ZpvDE">Soaring Valor - October 2017 (Notre Dame High School)</a>
   </span>
 </p>

@@ -53,7 +53,7 @@ redirect_from:
 
 ## Events
 
-<p class="exp_p">
+<p class="exp_p" id="DataFest">
   <img src="/images/DataFest_Logo.jpeg" alt="DataFest Logo" class="exp_img">
   <span class="exp_text"> <strong> 2023 UCLA DataFest </strong>  <br /> 
   <em> Westwood, California, USA </em> 
