@@ -14,4 +14,4 @@ Here are some fun facts about me:
 * I was in the top 0.005% of Selena Gomez & the Scene listeners on Spotify in 2022
 * I like board games! Catan, chess, and more!
 * My ideal free night dinner at a good restaurant, seeing a movie in theaters, or taking a walk under the night sky
-* I have been the league manager of my buddies' fantasy football league for <script> document.write(new Date().getFullYear() - 2017) </script> seasons now
+* I was chosen to be the league manager of my buddies' fantasy football league and have served in that role for <script> document.write(new Date().getFullYear() - 2017) </script> seasons now
