@@ -70,8 +70,12 @@ redirect_from:
 </p>
 
 <p class="exp_p">
-    <span class="exp_text"> Python for Data Analysis and Visualization <a href="https://vincentyfront.github.io/files/Python_Certificate.pdf">(Certificate)</a> <br /> 
+    <span class="exp_text"> Python for Data Analysis and Visualization <br />
+    <em>June 2022</em> <br />
+    <a href="https://vincentyfront.github.io/files/Python_Certificate.pdf">Certificate</a> <br />
     <br />
-    Microsoft Excel - Excel From Beginner to Advanced <a href="https://vincentyfront.github.io/files/Excel_Certificate.pdf">(Certificate)</a>
+    Microsoft Excel - Excel From Beginner to Advanced <br />
+    <em>December 2021</em> <br />
+    <a href="https://vincentyfront.github.io/files/Excel_Certificate.pdf">[Certificate]</a> <br />
     </span> 
 </p>
