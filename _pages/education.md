@@ -76,6 +76,6 @@ redirect_from:
     <br />
     Microsoft Excel - Excel From Beginner to Advanced <br />
     <em>December 2021</em> <br />
-    <a href="https://vincentyfront.github.io/files/Excel_Certificate.pdf">[Certificate]</a> <br />
+    <a href="https://vincentyfront.github.io/files/Excel_Certificate.pdf">Certificate</a> <br />
     </span> 
 </p>
