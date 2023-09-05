@@ -12,6 +12,6 @@ Here are some fun facts about me:
 * My favorite professional sports teams are the Dodgers, Lakers, and Steelers, and my favorite college sports teams are UCLA and Northwestern
 * I am a lifelong Lego enthusiast! My favorite themes are City and Star Wars
 * I was in the top 0.005% of Selena Gomez & the Scene listeners on Spotify in 2022
-* I like board games! Catan, chess, and more!
+* I like board games and strategic games! Catan, chess, and more! My favorite game is an online computer game called MouseHunt, which I have been playing for <script>document.write(Math.floor((Math.abs(new Date() - new Date("2010-10-14")) / 31556926000)))</script> years now
 * My ideal free night dinner at a good restaurant, seeing a movie in theaters, or taking a walk under the night sky
-* I was chosen to be the league manager of my buddies' fantasy football league and have served in that role for <script> document.write(new Date().getFullYear() - 2017) </script> seasons now
+* I was chosen to be the league manager of my buddies' fantasy football league and have served in that role for <script>document.write(new Date().getFullYear() - 2017)</script> seasons now
