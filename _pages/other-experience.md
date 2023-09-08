@@ -116,5 +116,6 @@ redirect_from:
 
 <p class="exp_p">
     <span class="exp_text"> Certified California Food Handler <br />
-    <a href="https://vincentyfront.github.io/files/Vincenty_Front_ServSafe.pdf">Certificate</a> <br />
+    <a href="https://vincentyfront.github.io/files/Vincenty_Front_ServSafe.pdf">Certificate</a>
+    </span>
 </p>
