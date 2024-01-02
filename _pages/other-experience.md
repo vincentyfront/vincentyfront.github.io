@@ -18,7 +18,7 @@ redirect_from:
     <em>August 2023 – Present</em>
     <ul class="exp_ul">
             <li>Stocked shelves, operated the cash register, and bagged groceries in a fun and efficient manner</li>
-            <li>Created an excellent customer experience through being knowlegeable and providing a welcoming attitude of care and friendliness</li>
+            <li>Created an excellent customer experience through being knowledgeable and providing a welcoming attitude of care and friendliness</li>
             <li>Worked on multiple teams and tasks to accomplish goals</li> 
         </ul> 
     </span> 
