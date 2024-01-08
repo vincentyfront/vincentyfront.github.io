@@ -7,13 +7,13 @@ redirect_from:
 ---
 
 <p class="exp_p" id="Proj5">
-    <span class="exp_text"> <strong>Analyzing Power Outages After Hurricanes</strong> <br />
-    Data Scientist <br />
+    <span class="exp_text"> <strong>Analyzing Power Outages After Hurricanes for Private Client</strong> <br />
+    Data Analyst <br />
     <em>January 2023 – March 2023</em> <br />
     <ul class="exp_ul">
         <li>Extracted outage keywords from NOAA descriptions and converted time data from text to integer values for modeling</li>
         <li>Created <a href="https://vincentyfront.github.io/files/OneConcern.png">choropleth maps</a> of the United States and bar charts to visualize power restoration times after hurricanes</li>
-        <li>Constantly met with client and teammates and adapted tasks to accommodate evolving project goals</li>
+        <li>Constantly met with client and teammates and adapted tasks to accommodate evolving project goals and make informed business decisions</li>
     </ul> 
     </span> 
 </p>
@@ -34,8 +34,8 @@ redirect_from:
 </p>
 
 <p class="exp_p" id="Proj3">
-    <span class="exp_text"> <strong>Developing a Matching Algorithim for Private Vendor</strong> <br />
-    Data Scientist <br />
+    <span class="exp_text"> <strong>Developing a Matching Algorithim for Private Client</strong> <br />
+    Data Analyst <br />
     <em>January 2022 – May 2022</em> <br />
     <ul class="exp_ul">
         <li>Accessed customer data from vendor’s API and cleaned music preference data using pandas</li>
@@ -46,7 +46,7 @@ redirect_from:
 
 <p class="exp_p" id="Proj2">
     <span class="exp_text"> <strong>Understanding the 2020 U.S. Census</strong> <br />
-    Data Scientist <br />
+    Data Analyst <br />
     <em>October 2021 – December 2021</em> <br />
     <ul class="exp_ul">
         <li>Researched and consolidated 2020 U.S. Census data on racial and income proportions by state</li>
@@ -58,7 +58,7 @@ redirect_from:
 
 <p class="exp_p" id="Proj1">
     <span class="exp_text"> <strong>Predicting California Energy Usage and Air Pollution In Wake of the Pandemic</strong> <br />
-    Data Scientist <br />
+    Data Analyst <br />
     <em>June 2021 – October 2021</em> <br />
     <ul class="exp_ul">
         <li>Researched California’s energy portfolio, cleaned data, and leveraged Google Data Studio and Tableau to make <a href="https://lookerstudio.google.com/reporting/a0a98a30-8302-44c7-9260-3c088fcf4897">interactive dashboards</a></li>

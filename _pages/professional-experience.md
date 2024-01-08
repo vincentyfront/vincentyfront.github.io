@@ -32,11 +32,11 @@ redirect_from:
 </p>
 
 <p class="exp_p">
-    <span class="exp_text"> Data Scientist <br /> 
+    <span class="exp_text"> Data Analyst <br /> 
     <em> April 2021 – June 2023 </em> 
     <ul class="exp_ul">
         <li>Undertook accelerated Python and SQL program for data science including, data manipulation, visualization, and ML</li>
-        <li>Participated in five data science projects involving data collection, cleaning, visualization, and machine learning with a team</li>
+        <li>Participated in five data science projects involving data collection, manipulation, visualization, and dashboard creation</li>
     </ul>
     </span>
 </p>
@@ -75,5 +75,5 @@ redirect_from:
 
 <p class="exp_p"> Programming Languages: R (base, tidyverse) (Advanced), Python (numpy, pandas, BeautifulSoup, matplotlib, scikit learn, nltk) (Advanced), SQL (Advanced Beginner), HTML/CSS (Beginner) <br />
 <br  />
-Other Tools: Microsoft Excel, VBA, Tableau, R Shiny, Git, GitHub, Power BI, OpenRefine, QGIS, Jekyll, Microsoft Office, LaTeX
+Other Tools: Microsoft Excel, Macros and VBA, Tableau, R Shiny, Git, GitHub, Power BI, OpenRefine, QGIS, Jekyll, Microsoft Office, LaTeX
 </p>
