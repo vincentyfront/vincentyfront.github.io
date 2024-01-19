@@ -26,7 +26,7 @@ redirect_from:
     <ul class="exp_ul">
         <li>Led a team of 8 data scientists to build algorithms to predict if professional baseball teams (MLB) made the playoffs</li>
         <li>Researched, webscraped, combined, and cleaned 8 660-row datasets leveraging BeautifulSoup, pandas, and scikit learn</li>
-        <li>Produced<a href="https://public.tableau.com/app/profile/vince.front/viz/ReliefPitchingDashboard/Dashboard">dashboards</a> and conducted model selection to develop a logistic regression model with 88% accuracy</li>
+        <li>Produced <a href="https://public.tableau.com/app/profile/vince.front/viz/ReliefPitchingDashboard/Dashboard">dashboards</a> and conducted model selection to develop a logistic regression model with 88% accuracy</li>
         <li>Led project meetings and taught self and project members Tableau, GitHub, data visualization, and machine learning</li>
         <li>Developed a project timeline, managed the project GitHub repository, and wrote an article presenting the results</li>
     </ul> 
