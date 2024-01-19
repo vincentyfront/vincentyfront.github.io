@@ -17,9 +17,9 @@ redirect_from:
     <span class="exp_text"> Project Manager <br /> 
     <em> July 2022 – June 2023 </em> 
     <ul class="exp_ul">
-        <li>Scoped and delegated work for 5-10 data science projects a quarter for a team of four consultants to assist researchers</li>
-        <li>Oversaw and managed data science pipelines and acted as main liaison between consultants, supervisors, and clients</li>
-        <li>Served as a data science consultant when needed and upkept the team website and GitHub repositories</li> 
+        <li>Created automated reports and dashboards in R to communicate business trends to supervisors: doubled our clientele</li>
+        <li>Acted as main liaison between consultants, supervisors, and stakeholders, cleaning data and creating visuals ad hoc</li>
+        <li>Managed data science workflows for 5-10 projects a quarter for a team of four data science consultants</li> 
     </ul> 
     </span> 
 </p>
@@ -36,7 +36,7 @@ redirect_from:
     <em> April 2021 – June 2023 </em> 
     <ul class="exp_ul">
         <li>Undertook accelerated Python and SQL program for data science including, data manipulation, visualization, and ML</li>
-        <li>Participated in five data science projects involving data collection, manipulation, visualization, and dashboard creation</li>
+        <li>Specialized in data collection, cleaning, visualization, dashboard creation, and presenting findings to stakeholders</li>
     </ul>
     </span>
 </p>
@@ -45,8 +45,9 @@ redirect_from:
     <span class="exp_text"> Director of Membership <br /> 
     <em>March 2022 – February 2023</em>
     <ul class="exp_ul">
-        <li>Spearheaded two recruitment cycles of 200+ applicants by developing a recruitment timeline and coordinating 40+ members to conduct interviews; increased club membership by 40% and club engagement by 60%</li>
-        <li>Organized 10+ club socials to foster community and assisted in maintenance of the club mentorship program</li>
+        <li>Built dashboards using Excel to present budgeting options to the board: helped the club save hundreds on expenses</li>
+        <li>Increased club social engagement by 60% through organizing 10+ socials and cultivating an affable professional culture</li>
+        <li>Spearheaded two recruitment cycles of 200+ applicants by developing a recruitment timeline and coordinating 40+ members to conduct interviews, expanding club membership by 40%</li>
     </ul> 
     </span>   
 </p>

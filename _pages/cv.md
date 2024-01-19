@@ -29,8 +29,8 @@ My name is Vincenty (Vince) Front and I have a B.S. in Statistics and Data Scien
 ## Skills
 * Programming Languages
   * R (base, tidyverse, shiny) - Advanced
-  * Python (numpy, pandas, BeautifulSoup, matplotlib, scikit learn, nltk) - Advanced
-  * SQL - Advanced Beginner
+  * Python (numpy, pandas, BeautifulSoup, matplotlib, scikit learn, nltk) - Intermediate
+  * SQL - Beginner
   * HTML/CSS - Beginner
 * Other Tools
   * Microsoft Excel, including Macros and VBA

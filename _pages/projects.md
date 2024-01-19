@@ -12,8 +12,8 @@ redirect_from:
     <em>January 2023 – March 2023</em> <br />
     <ul class="exp_ul">
         <li>Extracted outage keywords from NOAA descriptions and converted time data from text to integer values for modeling</li>
-        <li>Created <a href="https://vincentyfront.github.io/files/OneConcern.png">choropleth maps</a> of the United States and bar charts to visualize power restoration times after hurricanes</li>
-        <li>Constantly met with client and teammates and adapted tasks to accommodate evolving project goals and make informed business decisions</li>
+        <li>Created <a href="https://vincentyfront.github.io/files/OneConcern.png">choropleth maps</a> of the United States and and visualizations to present power restoration times to stakeholders</li>
+        <li>Constantly communicated reported findings which helped stakeholders make informed business decisions</li>
     </ul> 
     </span> 
 </p>
@@ -39,7 +39,7 @@ redirect_from:
     <em>January 2022 – May 2022</em> <br />
     <ul class="exp_ul">
         <li>Accessed customer data from vendor’s API and cleaned music preference data using pandas</li>
-        <li>Leveraged cosine similarity in scikit learn to develop a matching algorithm using a customer’s music preferences</li>
+        <li>Leveraged cosine similarity in scikit learn to develop a matching algorithm using a customer’s music preferences which the stakeholder used in the development of their product</li>
     </ul> 
     </span> 
 </p>
@@ -61,7 +61,7 @@ redirect_from:
     Data Analyst <br />
     <em>June 2021 – October 2021</em> <br />
     <ul class="exp_ul">
-        <li>Researched California’s energy portfolio, cleaned data, and leveraged Google Data Studio and Tableau to make <a href="https://lookerstudio.google.com/reporting/a0a98a30-8302-44c7-9260-3c088fcf4897">interactive dashboards</a></li>
+        <li>Researched California’s energy portfolio, cleaned data, and leveraged Google Data Studio and Tableau to make <a href="https://lookerstudio.google.com/reporting/a0a98a30-8302-44c7-9260-3c088fcf4897">interactive dashboards</a> to present to stakeholders</li>
         <li>Utilized linear regression in R to make predictions on nitrogen and sulfur oxide concentrations in the atmosphere with 80% accuracy</li>
     </ul> 
     </span> 
