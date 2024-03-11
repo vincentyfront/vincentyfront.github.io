@@ -18,7 +18,7 @@ Here are some fun facts about me:
 
 Two truths and a lie:
 1. I've been playing a game for the last <script>document.write(Math.floor((Math.abs(new Date() - new Date("2010-10-14")) / 31556926000)))</script> years where I'm a hunter assigned to capture mice that emulate humans
-2. I ended up seeing the film *The Hunger Games: Catching Fire* twice in theaters in the same day
+2. I ended up seeing the film *The Hunger Games: Catching Fire* in theaters twice in the same day
 3. I have been to over 15 different U.S. States
 
 <div class="ttl_answer">Hover over this text for the answer!</div>
