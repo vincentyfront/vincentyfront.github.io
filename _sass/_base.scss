@@ -74,6 +74,21 @@ del a {
   color: inherit;
 }
 
+.hide {
+  display: none;
+}
+
+/* hovering text */
+
+.hide {
+  display: none;
+}
+
+.ttl_answer:hover + .hide {
+  display: block;
+  color: mediumvioletred;
+}
+
 /* reduce orphans and widows when printing */
 
 p, pre, blockquote, ul, ol, dl, figure, table, fieldset {

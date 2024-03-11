@@ -17,9 +17,9 @@ redirect_from:
     <span class="exp_text"> Project Manager <br /> 
     <em> July 2022 – June 2023 </em> 
     <ul class="exp_ul">
-        <li>Created automated reports and dashboards in R to communicate business trends to supervisors: doubled our clientele</li>
-        <li>Acted as main liaison between consultants, supervisors, and stakeholders, cleaning data and creating visuals ad hoc</li>
-        <li>Managed data science workflows for 5-10 projects a quarter for a team of four data science consultants</li> 
+        <li>Led the DataSquad data science consulting team to meet the needs of over 50 patrons and complete over 10 research projects in one year through optimizing project workflows and expanding outreach</li>
+        <li>Acted as main liaison between data science consultants, supervisors, and stakeholders, also cleaning data and creating visuals ad hoc per individual project needs</li>
+        <li>Helped to double incoming clientele and support future organizational growth by creating automated business reports and dashboards in R, improving the team's website design, and implementing efficient Calendly appointment scheduling</li> 
     </ul> 
     </span> 
 </p>
@@ -35,8 +35,9 @@ redirect_from:
     <span class="exp_text"> Data Analyst <br /> 
     <em> April 2021 – June 2023 </em> 
     <ul class="exp_ul">
-        <li>Undertook accelerated Python and SQL program for data science including, data manipulation, visualization, and ML</li>
-        <li>Specialized in data collection, cleaning, visualization, dashboard creation, and presenting findings to stakeholders</li>
+        <li>Leveraged SQL, Python, R, and Tableau to meet the needs of various clients and research goals (see projects section) including text mining, tidying messy data, machine learning model development, and building interactive dashboards</li>
+        <li>Specialized in data collection, cleaning, visualization, dashboard creation, machine learning, and presenting findings to stakeholders with varying degrees of technical knowledge</li>
+        <li>Undertook accelerated Python and SQL program for data science</li>
     </ul>
     </span>
 </p>
@@ -45,8 +46,8 @@ redirect_from:
     <span class="exp_text"> Director of Membership <br /> 
     <em>March 2022 – February 2023</em>
     <ul class="exp_ul">
-        <li>Built dashboards using Excel to present budgeting options to the board: helped the club save hundreds on expenses</li>
-        <li>Increased club social engagement by 60% through organizing 10+ socials and cultivating an affable professional culture</li>
+        <li>Saved club hundreds on expenses through using Microsoft Excel to analyze spending patters, budgeting, and build dashboards to present numbers to the board</li>
+        <li>Organized 10+ club socials and cultivated an affable professional culture which increased club social engagement by 60%</li>
         <li>Spearheaded two recruitment cycles of 200+ applicants by developing a recruitment timeline and coordinating 40+ members to conduct interviews, expanding club membership by 40%</li>
     </ul> 
     </span>   
@@ -62,7 +63,7 @@ redirect_from:
 </p>
 
 <p class="exp_p">
-    <span class="exp_text"> Data Analyst <br /> 
+    <span class="exp_text"> Data Scientist <br /> 
     <em> April 2023 </em> 
     <ul class="exp_ul">
         <li>Competition where 4-6 person teams were given a dataset and 48 hours to provide the best analysis</li>
@@ -74,7 +75,7 @@ redirect_from:
 
 ## Skills
 
-<p class="exp_p"> Programming Languages: R (base, tidyverse) (Advanced), Python (numpy, pandas, BeautifulSoup, matplotlib, scikit learn, nltk) (Advanced), SQL (Advanced Beginner), HTML/CSS (Beginner) <br />
+<p class="exp_p"> Programming Languages: R (base, tidyverse) [Advanced], Python (pandas, BeautifulSoup, matplotlib, scikit learn, nltk, mysql) [Intermediate], SQL [Advanced Beginner], HTML/CSS [Beginner] <br />
 <br  />
-Other Tools: Microsoft Excel, Macros and VBA, Tableau, R Shiny, Git, GitHub, Power BI, OpenRefine, QGIS, Jekyll, Microsoft Office, LaTeX
+Other Tools: Microsoft Excel, Microsoft Excel Macros and VBA, Tableau, R Shiny, Git, GitHub, Power BI, OpenRefine, Jekyll, Microsoft Office, LaTeX
 </p>

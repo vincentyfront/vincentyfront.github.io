@@ -8,7 +8,7 @@ redirect_from:
 
 <p class="exp_p" id="Proj5">
     <span class="exp_text"> <strong>Analyzing Power Outages After Hurricanes for Private Client</strong> <br />
-    Data Analyst <br />
+    Data Scientist <br />
     <em>January 2023 – March 2023</em> <br />
     <ul class="exp_ul">
         <li>Extracted outage keywords from NOAA descriptions and converted time data from text to integer values for modeling</li>
@@ -20,7 +20,7 @@ redirect_from:
 
 <p class="exp_p" id="Proj4">
     <span class="exp_text"> <strong>Predicting MLB Playoff Teams</strong> <br />
-    Project Lead <br />
+    Project Lead & Data Scientist <br />
     <em>June 2022 – October 2022</em> <br />
     <a href="https://github.com/the-data-science-union/DSU-S2022-MLB">GitHub Repository</a> / <a href="https://medium.com/@ucladsu/predicting-mlb-playoff-teams-from-their-yearly-statistics-2fc058f163af">Medium Article</a> <br />
     <ul class="exp_ul">
@@ -35,7 +35,7 @@ redirect_from:
 
 <p class="exp_p" id="Proj3">
     <span class="exp_text"> <strong>Developing a Matching Algorithim for Private Client</strong> <br />
-    Data Analyst <br />
+    Data Scientist <br />
     <em>January 2022 – May 2022</em> <br />
     <ul class="exp_ul">
         <li>Accessed customer data from vendor’s API and cleaned music preference data using pandas</li>
@@ -58,11 +58,11 @@ redirect_from:
 
 <p class="exp_p" id="Proj1">
     <span class="exp_text"> <strong>Predicting California Energy Usage and Air Pollution In Wake of the Pandemic</strong> <br />
-    Data Analyst <br />
+    Data Scientist <br />
     <em>June 2021 – October 2021</em> <br />
     <ul class="exp_ul">
         <li>Researched California’s energy portfolio, cleaned data, and leveraged Google Data Studio and Tableau to make <a href="https://lookerstudio.google.com/reporting/a0a98a30-8302-44c7-9260-3c088fcf4897">interactive dashboards</a> to present to stakeholders</li>
-        <li>Utilized linear regression in R to make predictions on nitrogen and sulfur oxide concentrations in the atmosphere with 80% accuracy</li>
+        <li>Utilized linear regression in R to make predictions on nitrogen and sulfur oxide concentrations in the atmosphere with 90% accuracy</li>
     </ul> 
     </span> 
 </p>
