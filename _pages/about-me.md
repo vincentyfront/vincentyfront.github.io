@@ -19,12 +19,12 @@ Here are some fun facts about me:
 Two truths and a lie:
 1. I've been playing a game for the last <script>document.write(Math.floor((Math.abs(new Date() - new Date("2010-10-14")) / 31556926000)))</script> years where I'm a hunter assigned to capture mice that emulate humans
 2. I ended up seeing the film *The Hunger Games: Catching Fire* twice in theaters in the same day
-3. I have been to 15 different U.S. States
+3. I have been to over 15 different U.S. States
 
 <div class="ttl_answer">Hover over this text for the answer!</div>
 
 <div class="hide"> 
-1. Truth! The game is called MouseHunt, and I have been playing since 2010! It's a strategic game where you can only make one move every 15 minutes 
-2. Lie! I actually did see the same film in theaters twice in the same day, but it was <em>Harry Potter and the Deathly Hallows: Part 1</em>
-3. Truth! I've been to Arizona, Arkansas, California, Colorado, Connecticut, Idaho, Louisiana, Massachusetts, Nevada, Ohio, Oregon, Pennsylvania, Rhode Island, Tennessee, and West Virginia
+1. Truth! The game is called MouseHunt, and I have been playing since 2010! It's a strategic game where you can only make one move every 15 minutes <br />
+2. Lie! I actually did see the same film in theaters twice in the same day, but it was <em>Harry Potter and the Deathly Hallows: Part 1</em> <br />
+3. Truth! I've been to 17 different states: Arizona, Arkansas, California, Colorado, Connecticut, Idaho, Louisiana, Maine, Massachusetts, Nevada, New Hampshire, Ohio, Oregon, Pennsylvania, Rhode Island, Tennessee, and West Virginia <br />
 </div>
