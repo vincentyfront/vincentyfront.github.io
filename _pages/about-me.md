@@ -19,8 +19,8 @@ Here are some fun facts about me:
 Two truths and a lie:
 1. I've been playing a game for the last <script>document.write(Math.floor((Math.abs(new Date() - new Date("2010-10-14")) / 31556926000)))</script> years where I'm a hunter assigned to capture mice that emulate humans
 2. I ended up seeing the film *The Hunger Games: Catching Fire* twice in theaters in the same day
-3. I once made a layup, free throw, three pointer, and half court shot in 30 seconds
+3. I have been to 15 different U.S. States
 
-<div class="ttl_answer">Hover over me for the answer!</div>
+<div class="ttl_answer">Hover over this text for the answer!</div>
 
-<div class="hide">The lie is I ended up seeing the film *The Hunger Games: Catching Fire* twice in theaters in the same day! I actually did see the same film in theaters twice in the same day, but it was <em>Harry Potter and the Deathly Hallows: Part 1</em></div>
+<div class="hide">The lie is: I ended up seeing the film <em>The Hunger Games: Catching Fire</em> twice in theaters in the same day! I actually did see the same film in theaters twice in the same day, but it was <em>Harry Potter and the Deathly Hallows: Part 1</em> </div>
