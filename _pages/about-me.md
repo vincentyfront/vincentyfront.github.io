@@ -26,5 +26,5 @@ Two truths and a lie:
 <div class="hide"> 
 1. Truth! The game is called MouseHunt, and I have been playing since 2010! It's a strategic game where you can only make one move every 15 minutes <br />
 2. Lie! I actually did see the same film in theaters twice in the same day, but it was <em>Harry Potter and the Deathly Hallows: Part 1</em> <br />
-3. Truth! I've been to 17 different states: Arizona, Arkansas, California, Colorado, Connecticut, Idaho, Louisiana, Maine, Massachusetts, Nevada, New Hampshire, Ohio, Oregon, Pennsylvania, Rhode Island, Tennessee, and West Virginia <br />
+3. Truth! I've been to 18 different states: Arizona, Arkansas, California, Colorado, Connecticut, Idaho, Louisiana, Maine, Massachusetts, Nevada, New Hampshire, North Carolina, Ohio, Oregon, Pennsylvania, Rhode Island, Tennessee, and West Virginia <br />
 </div>
