@@ -213,6 +213,17 @@
   font-size: 14px;
 }
 
+/* hovering text */
+
+.hide {
+  display: none;
+}
+
+.ttl_answer:hover + .hide {
+  display: block;
+  color: mediumvioletred;
+}
+
 /*
    Social sharing
    ========================================================================== */
