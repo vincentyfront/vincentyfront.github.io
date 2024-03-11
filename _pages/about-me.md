@@ -24,3 +24,26 @@ Two truths and a lie:
 <div class="ttl_answer">Hover over me for the answer!</div>
 
 <div class="hide">The lie is I ended up seeing the film *The Hunger Games: Catching Fire* twice in theaters in the same day! I actually did see the same film in theaters twice in the same day, but it was <em>Harry Potter and the Deathly Hallows: Part 1</em></div>
+
+<html>
+<head>
+<style>
+.hide {
+  display: none;
+}
+    
+.myDIV:hover + .hide {
+  display: block;
+  color: red;
+}
+</style>
+</head>
+<body>
+
+<h2>Display an Element on Hover</h2>
+
+<div class="myDIV">Hover over me.</div>
+<div class="hide">I am shown when someone hovers over the div above.</div>
+
+</body>
+</html>
