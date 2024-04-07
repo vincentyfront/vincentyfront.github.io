@@ -18,6 +18,11 @@ My name is Vincenty (Vince) Front and I have a B.S. in Statistics and Data Scien
 * Environmental Systems and Society, University of California, Los Angeles (UCLA), 2023
 
 ## Experience
+* April 2024 – Present: Clinical Data Analyst
+  * Five Acres--The Boys' and Girls' Aid Society of Los Angeles
+  * Duties included: Maintaining data sytems, reporting data, data analysis and suggestions
+  * Supervisor: Katherine Tsai
+
 * July 2022 – June 2023: Project Manager (Data Science Consulting)
   * UCLA Library Data Science Center
   * Duties included: Faciliating research projects and clients, data science consulting, organizing data science pipline and team structures

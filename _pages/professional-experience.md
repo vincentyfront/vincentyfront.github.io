@@ -7,6 +7,24 @@ redirect_from:
 ---
 
 <p class="exp_p">
+  <img src="/images/Five_Acres_Logo.jpeg" alt="Five Acres" class="exp_img">
+  <span class="exp_text"> <strong> Five Acres--The Boys' and Girls' Aid Society of Los Angeles </strong>  <br /> 
+  <em> Altadena, California, USA </em>
+  </span>
+</p>
+
+<p class="exp_p">
+    <span class="exp_text"> Clinical Data Analyst <br /> 
+    <em> April 2024 - Present </em> 
+    <ul class="exp_ul">
+        <li>Design, develop, and integrate data storage and reporting systems and gather clear and concise requirements for data reporting requests and documents specifications in an organized manner</li>
+        <li>Showcase patterns, insights, and trends in user-friendly data reports that also provide recommendations for decision-makers</li>
+        <li>Effectively engage private healthcare professionals in face to face discussions surrounding Five Acres service array and associated effectiveness to develop and maintain relationships with private health care leaders</li> 
+    </ul> 
+    </span> 
+</p>
+
+<p class="exp_p">
   <img src="/images/UCLA_Library_Logo.jpeg" alt="UCLA Library" class="exp_img">
   <span class="exp_text"> <strong> UCLA Library Data Science Center </strong>  <br /> 
   <em> Westwood, California, USA </em>

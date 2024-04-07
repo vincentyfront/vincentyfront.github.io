@@ -15,17 +15,17 @@ redirect_from:
 
 <p class="exp_p">
     <span class="exp_text">Crew Member<br /> 
-    <em>August 2023 – Present</em>
+    <em>August 2023 – April 2024</em>
     <ul class="exp_ul">
-            <li>Work on multiple teams and tasks in a fun and efficient manner to accomplish goals and make customers feel at home</li>
-            <li>Create an excellent customer experience by being knowledgeable and providing an attitude of care and friendliness</li>
+            <li>Worked on multiple teams and tasks in a fun and efficient manner to accomplish goals and make customers feel at home</li>
+            <li>Created an excellent customer experience by being knowledgeable and providing an attitude of care and friendliness</li>
             <li>Selected to be the section leader and order writer for the non-dairy milk and coffee/tea sections</li>
         </ul> 
     </span> 
 </p>
 
 <p class="exp_p">
-  <img src="/images/CPK_Logo.png" alt="CPK" class="exp_img">
+  <img src="/images/CPK_Logo.jpeg" alt="CPK" class="exp_img">
   <span class="exp_text"> <strong>California Pizza Kitchen</strong>  <br /> 
   <em>Westwood, California, USA</em> 
   </span>
