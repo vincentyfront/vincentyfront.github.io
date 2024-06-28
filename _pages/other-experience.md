@@ -115,6 +115,12 @@ redirect_from:
 # Certifications
 
 <p class="exp_p">
+    <span class="exp_text"> Adult, Child and Infant, CPR/AED & First Aid Certified <br />
+    <a href="https://vincentyfront.github.io/files/Vincenty_Front_FirstAid_CPR_Certification.pdf">Certificate</a>
+    </span>
+</p>
+
+<p class="exp_p">
     <span class="exp_text"> Certified California Food Handler <br />
     <a href="https://vincentyfront.github.io/files/Vincenty_Front_CA_Food_Handler_Certification.pdf">Certificate</a>
     </span>
