@@ -28,7 +28,7 @@ My name is Vincenty (Vince) Front and I have a B.S. in Statistics and Data Scien
   * Duties included: Faciliating research projects and clients, data science consulting, organizing data science pipline and team structures
   * Supervisors: Tim Dennis, Zhiyuan Yao
 
-* April 2021 – June 2023: Data Analyst
+* April 2021 – June 2023: Data Scientist
   * Data Science Union at UCLA
   * Duties included: Data collection, manipulation, visualization, and modeling on several projects
   
@@ -73,7 +73,7 @@ My name is Vincenty (Vince) Front and I have a B.S. in Statistics and Data Scien
   * Goal: Build a dating app algorithm to match people based on their music preferences
 
 * [Understanding the 2020 U.S. Census](https://vincentyfront.github.io/projects/#Proj2)
-  * Role: Data Analyst
+  * Role: Data Scientist
   * Duration: October 2021 – December 2021
   * Goal: Identify key patterns and trends within the 2020 U.S. Census
 

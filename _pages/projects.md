@@ -46,7 +46,7 @@ redirect_from:
 
 <p class="exp_p" id="Proj2">
     <span class="exp_text"> <strong>Understanding the 2020 U.S. Census</strong> <br />
-    Data Analyst <br />
+    Data Scientist <br />
     <em>October 2021 – December 2021</em> <br />
     <ul class="exp_ul">
         <li>Researched and consolidated 2020 U.S. Census data on racial and income proportions by state</li>

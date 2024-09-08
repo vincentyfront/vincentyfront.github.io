@@ -50,7 +50,7 @@ redirect_from:
 </p>
 
 <p class="exp_p">
-    <span class="exp_text"> Data Analyst <br /> 
+    <span class="exp_text"> Data Scientist <br /> 
     <em> April 2021 – June 2023 </em> 
     <ul class="exp_ul">
         <li>Leveraged SQL, Python, R, and Tableau to meet the needs of various clients and research goals (see projects section) including text mining, tidying messy data, machine learning model development, and building interactive dashboards</li>
