@@ -99,6 +99,24 @@ Other Tools: Microsoft Excel, Microsoft Excel Macros and VBA, Tableau, R Shiny, 
 
 ## Events
 
+<p class="exp_p" id="2024TCOM">
+  <img src="/images/2024_TCOM.png" alt="2024 TCOM Logo" class="exp_img">
+  <span class="exp_text"> <strong> 2024 Annual TCOM Conference </strong>  <br /> 
+  <em> San Francisco, California, USA </em> 
+  </span>
+</p>
+
+<p class="exp_p">
+    <span class="exp_text"> Presenter <br /> 
+    <em> October 2024 </em> 
+    <ul class="exp_ul">
+        <li>Presented on analysis done to measure the effectiveness of in-person vs. telehealth care for children receiving outpatient mental health services</li>
+        <li>Used t-tests and linear regression models to validate results</li>
+        <li>Designed and presented a <a href="https://vincentyfront.github.io/files/2024_CANS_Poster.pdf">poster of our findings</a> with the rest of the Five Acres Research Team to over 100 people attending the conference</li>
+    </ul> 
+    </span> 
+</p>
+
 <p class="exp_p" id="DataFest">
   <img src="/images/DataFest_Logo.jpeg" alt="DataFest Logo" class="exp_img">
   <span class="exp_text"> <strong> 2023 UCLA DataFest </strong>  <br /> 
