@@ -71,6 +71,32 @@ redirect_from:
     </span>   
 </p>
 
+## Skills
+
+<p class="exp_p"> Programming Languages: R (base, tidyverse) [Advanced], Python (pandas, BeautifulSoup, matplotlib, scikit learn, nltk, mysql) [Intermediate], SQL [Advanced Beginner], HTML/CSS [Beginner] <br />
+<br  />
+Other Tools: Microsoft Excel, Microsoft Excel Macros and VBA, Tableau, R Shiny, Git, GitHub, Power BI, OpenRefine, Jekyll, Microsoft Office, LaTeX
+</p>
+
+## Related Experience
+
+<p class="exp_p" id="AlumniMentor">
+  <img src="/images/Alumni_Mentor.png" alt="DataFest Logo" class="exp_img">
+  <span class="exp_text"> <strong> UCLA Alumni Mentor Program </strong>  <br /> 
+  <em> Westwood, California, USA </em> 
+  </span>
+</p>
+
+<p class="exp_p">
+    <span class="exp_text"> Alumni Mentor <br /> 
+    <em> October 2024 - Present </em> 
+    <ul class="exp_ul">
+        <li>Voluntary program to offer current UCLA students with profesional guidance</li>
+        <li>Monthly meetings with students to review resumes, conduct mock interviews, and offer advice</li>
+    </ul> 
+    </span> 
+</p>
+
 ## Events
 
 <p class="exp_p" id="DataFest">
@@ -89,11 +115,4 @@ redirect_from:
         <li>Selected as one of the 15 finalists out of over 100 teams</li>
     </ul> 
     </span> 
-</p>
-
-## Skills
-
-<p class="exp_p"> Programming Languages: R (base, tidyverse) [Advanced], Python (pandas, BeautifulSoup, matplotlib, scikit learn, nltk, mysql) [Intermediate], SQL [Advanced Beginner], HTML/CSS [Beginner] <br />
-<br  />
-Other Tools: Microsoft Excel, Microsoft Excel Macros and VBA, Tableau, R Shiny, Git, GitHub, Power BI, OpenRefine, Jekyll, Microsoft Office, LaTeX
 </p>
