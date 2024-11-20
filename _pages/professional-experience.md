@@ -129,7 +129,7 @@ Other Tools: Microsoft Excel, Microsoft Excel Macros and VBA, Tableau, R Shiny, 
     <span class="exp_text"> Alumni Mentor <br /> 
     <em> October 2024 - Present </em> 
     <ul class="exp_ul">
-        <li>Voluntary program to offer current UCLA students with profesional guidance</li>
+        <li>Voluntary program to offer current UCLA students with professional guidance</li>
         <li>Monthly meetings with students to review resumes, conduct mock interviews, and offer advice</li>
     </ul> 
     </span> 
