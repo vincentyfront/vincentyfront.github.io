@@ -78,30 +78,11 @@ redirect_from:
 Other Tools: Microsoft Excel, Microsoft Excel Macros and VBA, Tableau, R Shiny, Git, GitHub, Power BI, OpenRefine, Jekyll, Microsoft Office, LaTeX
 </p>
 
-## Related Experience
-
-<p class="exp_p" id="AlumniMentor">
-  <img src="/images/Alumni_Mentor.png" alt="DataFest Logo" class="exp_img">
-  <span class="exp_text"> <strong> UCLA Alumni Mentor Program </strong>  <br /> 
-  <em> Westwood, California, USA </em> 
-  </span>
-</p>
-
-<p class="exp_p">
-    <span class="exp_text"> Alumni Mentor <br /> 
-    <em> October 2024 - Present </em> 
-    <ul class="exp_ul">
-        <li>Voluntary program to offer current UCLA students with profesional guidance</li>
-        <li>Monthly meetings with students to review resumes, conduct mock interviews, and offer advice</li>
-    </ul> 
-    </span> 
-</p>
-
 ## Events
 
 <p class="exp_p" id="2024TCOM">
   <img src="/images/2024_TCOM.png" alt="2024 TCOM Logo" class="exp_img">
-  <span class="exp_text"> <strong> 2024 Annual TCOM Conference </strong>  <br /> 
+  <span class="exp_text"> <strong> 20th Annual TCOM Conference </strong>  <br /> 
   <em> San Francisco, California, USA </em> 
   </span>
 </p>
@@ -131,6 +112,25 @@ Other Tools: Microsoft Excel, Microsoft Excel Macros and VBA, Tableau, R Shiny, 
         <li>Competition where 4-6 person teams were given a dataset and 48 hours to provide the best analysis</li>
         <li>Created <a href="https://vincentyfront.github.io/files/DataFest_Choropleth.pdf">choropleth maps</a> of ratios of lawyers to clients on a state and county level</li>
         <li>Selected as one of the 15 finalists out of over 100 teams</li>
+    </ul> 
+    </span> 
+</p>
+
+## Related Experience
+
+<p class="exp_p" id="AlumniMentor">
+  <img src="/images/Alumni_Mentor.png" alt="DataFest Logo" class="exp_img">
+  <span class="exp_text"> <strong> UCLA Alumni Mentor Program </strong>  <br /> 
+  <em> Westwood, California, USA </em> 
+  </span>
+</p>
+
+<p class="exp_p">
+    <span class="exp_text"> Alumni Mentor <br /> 
+    <em> October 2024 - Present </em> 
+    <ul class="exp_ul">
+        <li>Voluntary program to offer current UCLA students with profesional guidance</li>
+        <li>Monthly meetings with students to review resumes, conduct mock interviews, and offer advice</li>
     </ul> 
     </span> 
 </p>
