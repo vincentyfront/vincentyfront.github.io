@@ -82,7 +82,7 @@ Other Tools: Microsoft Excel, Microsoft Excel Macros and VBA, Tableau, R Shiny, 
 
 <p class="exp_p" id="2024TCOM">
   <img src="/images/2024_TCOM.png" alt="2024 TCOM Logo" class="exp_img">
-  <span class="exp_text"> <strong> 20th Annual TCOM Conference </strong>  <br /> 
+  <span class="exp_text"> <strong> 2024 TCOM Conference </strong>  <br /> 
   <em> San Francisco, California, USA </em> 
   </span>
 </p>
