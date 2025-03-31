@@ -21,7 +21,7 @@ redirect_from:
     <a href="https://vincentyfront.github.io/files/Vincenty_Front_Unofficial_UCLA_Transcript.pdf">Transcript</a> / <a href="https://vincentyfront.github.io/files/Vincenty_Front_UCLA_Coursework.pdf">Coursework</a><br />
     GPA: 3.78/4.00 <br />
     Awards: Dean's Honor List <br />
-    Activities: Data Science Union at UCLA, Survivor at UCLA Contestant <br />
+    Activities: Data Science Union at UCLA Director/Member, Survivor @ UCLA Season 4 Castaway <br />
     </span> 
 </p>
 

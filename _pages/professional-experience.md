@@ -116,7 +116,7 @@ Other Tools: Microsoft Excel, Microsoft Excel Macros and VBA, Tableau, R Shiny, 
     </span> 
 </p>
 
-## Related Experience
+## Professional Development Opportunities
 
 <p class="exp_p" id="AlumniMentor">
   <img src="/images/Alumni_Mentor.png" alt="DataFest Logo" class="exp_img">
