@@ -5,7 +5,6 @@ permalink: /accolades/
 author_profile: true
 redirect_from:
 ---
-
 ## Academic Awards
 
 <p class="exp_p">
