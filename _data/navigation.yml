@@ -12,8 +12,8 @@ main:
   - title: "Other Experience" # formerly portfolio
     url: /other-experience/
         
-  - title: "Awards & Honors" # formerly blog posts
-    url: /awards-and-honors/
+  - title: "Accolades" # formerly blog posts
+    url: /accolades/
 
   - title: "CV"
     url: /cv/
