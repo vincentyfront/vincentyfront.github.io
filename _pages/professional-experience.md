@@ -19,7 +19,7 @@ redirect_from:
     <ul class="exp_ul">
         <li>Design, develop, and integrate data storage and reporting systems and gather clear and concise requirements for data reporting requests and documents specifications in an organized manner</li>
         <li>Showcase patterns, insights, and trends in user-friendly data reports that also provide recommendations for decision-makers</li>
-        <li>Effectively engage private healthcare professionals in face to face discussions surrounding Five Acres service array and associated effectiveness to develop and maintain relationships with private health care leaders</li> 
+        <li>Head data literacy initiatives created in collaboration with Five Acres leadership to educate and empower staff in understanding and effectively utilizing data to make informed decisions</li> 
     </ul> 
     </span> 
 </p>
