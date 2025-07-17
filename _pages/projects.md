@@ -6,6 +6,18 @@ author_profile: true
 redirect_from:
 ---
 
+<p class="exp_p" id="Proj6">
+    <span class="exp_text"> <strong>Examining the Effectiveness of Telehealth vs. In-Person Services for Children Using the CANS-IP</strong> <br />
+    Data Analyst <br />
+    <em>September 2024 – October 2024</em> <br />
+    <ul class="exp_ul">
+        <li>Presented on analysis done to measure the effectiveness of in-person vs. telehealth care for children receiving outpatient mental health services</li>
+        <li>Used t-tests and linear regression models to validate results</li>
+        <li>Designed and presented a <a href="https://vincentyfront.github.io/files/2024_CANS_Poster.pdf">poster of our findings</a> with the rest of the Five Acres Research Team to over 100 people attending the conference</li>
+    </ul> 
+    </span> 
+</p>
+
 <p class="exp_p" id="Proj5">
     <span class="exp_text"> <strong>Analyzing Power Outages After Hurricanes for Private Client</strong> <br />
     Data Scientist <br />
