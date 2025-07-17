@@ -78,18 +78,3 @@ redirect_from:
   Video: <a href="https://www.youtube.com/watch?v=PKT8j-ZpvDE">Soaring Valor - October 2017 (Notre Dame High School)</a>
   </span>
 </p>
-
-## Special Opportunities
-
-<p class="exp_p">
-  <img src="/images/Survivor_at_UCLA.png" alt="Survivor @ UCLA Season 4: Moral Dilemma" class="exp_img">
-  <span class="exp_text"> <strong>Castaway</strong> <br />
-  Survivor @ UCLA Season 4: Moral Dilemma <br />
-  <em>January 2023 - March 2023</em> <br />
-  <br />
-  1 of 16 UCLA students selected to compete as castaways on Season 4 of Survivor @ UCLA <br />
-  <br />
-  Episodes: <a href="https://www.youtube.com/watch?v=HxR9_6IBy3U&list=PLAWMvTxJdZimVfeMUsmaQz3HcLSjTRLrO">Survivor @ UCLA, Season 4: Moral Dilemma</a> <br />
-  Audition Tape: <a href="https://youtu.be/RqwBRAxK2aQ?si=dyY2cHueptNOyt_N">Survivor @ UCLA Audition Tape - Vince Front</a>
-  </span>
-</p>
