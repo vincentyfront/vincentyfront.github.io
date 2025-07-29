@@ -46,6 +46,7 @@ My name is Vincenty (Vince) Front and I have a B.S. in Statistics and Data Scien
   * OpenRefine
   * Jekyll & GitHub Pages
   * LaTeX
+  * Toad/Microsoft SSMS
 * Highest Valued Traits
   * Teamwork/collaboration
   * Organized
