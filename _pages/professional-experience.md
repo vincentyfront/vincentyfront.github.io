@@ -73,9 +73,9 @@ redirect_from:
 
 ## Skills
 
-<p class="exp_p"> Programming Languages: R (base, tidyverse) [Advanced], Python (pandas, BeautifulSoup, matplotlib, scikit learn, nltk, mysql) [Intermediate], SQL [Advanced Beginner], HTML/CSS [Beginner] <br />
+<p class="exp_p"> Programming Languages: R (base, tidyverse) [Advanced], Python (pandas, BeautifulSoup, matplotlib, scikit learn, nltk, mysql) [Intermediate], SQL [Intermediate], HTML/CSS [Beginner] <br />
 <br  />
-Other Tools: Microsoft Excel, Microsoft Excel Macros and VBA, Tableau, R Shiny, Git, GitHub, Power BI, OpenRefine, Jekyll, Microsoft Office, LaTeX
+Other Tools: Microsoft Excel, Microsoft Excel Macros and VBA, Tableau, R Shiny, Git, GitHub, Power BI, OpenRefine, Jekyll, Microsoft Office, LaTeX, SSMS
 </p>
 
 ## Events
