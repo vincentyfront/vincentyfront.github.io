@@ -13,7 +13,7 @@ My name is Vincenty (Vince) Front and I have a B.S. in Statistics and Data Scien
 
 ## Education
 * B.S. in Statistics and Data Science, University of California, Los Angeles (UCLA), 2023
-* Environmental Systems and Society, University of California, Los Angeles (UCLA), 2023
+* Minor, Environmental Systems and Society, University of California, Los Angeles (UCLA), 2023
 
 ## Experience
 * April 2024 – Present: Clinical Data Analyst
