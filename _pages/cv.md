@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 ## Summary of Experience
 
-My name is Vincenty (Vince) Front and I have a B.S. in Statistics and Data Science with a minor in Environmental Systems and Society from UCLA. I am proficient in R, Python, and SQL and have a great deal of experience using Tableau and GitHub for data science projects. I am a quick learner, organized, responsible, and value producing easy-to-follow, well documented work. I hope to work in a diverse and collaborative team environment where I can contribute my skills, be myself, and make a difference in my community.
+My name is Vincenty (Vince) Front and I have a B.S. in Statistics and Data Science with a minor in Environmental Systems and Society from UCLA. I am proficient in R, Python, and SQL and have a great deal of experience using Microsoft Excel, Tableau, and GitHub for data science projects. I am a quick learner, organized, responsible, and value producing easy-to-follow, well documented work. I hope to work in a diverse and collaborative team environment where I can contribute my skills, be myself, and make a difference in my community.
 
 ## Education
 * B.S. in Statistics and Data Science, University of California, Los Angeles (UCLA), 2023
@@ -34,7 +34,7 @@ My name is Vincenty (Vince) Front and I have a B.S. in Statistics and Data Scien
 * Programming Languages
   * R (base, tidyverse, shiny) - Advanced
   * Python (pandas, BeautifulSoup, matplotlib, scikit learn, nltk, mysql) - Intermediate
-  * SQL - Advanced Beginner
+  * SQL - Intermediate
   * HTML/CSS - Beginner
 * Other Tools
   * Microsoft Excel, including Macros and VBA
@@ -54,6 +54,11 @@ My name is Vincenty (Vince) Front and I have a B.S. in Statistics and Data Scien
   * Zealous
 
 ## Projects
+
+* [Examining the Effectiveness of Telehealth vs. In-Person Services for Children Using the CANS-IP](https://vincentyfront.github.io/projects/#Proj6)
+  * Role: Data Analyst
+  * Duration: September 2024 – October 2024
+  * Goal: Determine if there is a difference in client improvement between those who use telehealth services and those who use in-person services
 
 * [Analyzing Power Outages After Hurricanes](https://vincentyfront.github.io/projects/#Proj5)
   * Role: Data Scientist 
@@ -81,6 +86,11 @@ My name is Vincenty (Vince) Front and I have a B.S. in Statistics and Data Scien
   * Goal: Analyze and predict California's energy usage and air pollution during the COVID-19 pandemic
 
   ## Events
+
+  * [2024 TCOM Conference](https://vincentyfront.github.io/professional-experience/#2024TCOM)
+    * Role: Presenter
+    * Duration: October 2024
+    * Goal: Present findings on the effectivness of telehealth vs. in-person services
 
 * [2023 UCLA DataFest](https://vincentyfront.github.io/professional-experience/#DataFest)
   * Role: Data Scientist

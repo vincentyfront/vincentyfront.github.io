@@ -91,9 +91,9 @@ Other Tools: Microsoft Excel, Microsoft Excel Macros and VBA, Tableau, R Shiny, 
     <span class="exp_text"> Presenter <br /> 
     <em> October 2024 </em> 
     <ul class="exp_ul">
-        <li>Presented on analysis done to measure the effectiveness of in-person vs. telehealth care for children receiving outpatient mental health services</li>
+        <li>Developed metric to summarize counts of clients’ needs to be addressed through treatment and split by service type</li>
         <li>Used t-tests and linear regression models to validate results</li>
-        <li>Designed and presented a <a href="https://vincentyfront.github.io/files/2024_CANS_Poster.pdf">poster of our findings</a> with the rest of the Five Acres Research Team to over 100 people attending the conference</li>
+        <li>Presented <a href="https://vincentyfront.github.io/files/2024_CANS_Poster.pdf">poster of our findings</a> with the Five Acres Research Team to over 100 people at the conference</li>
     </ul> 
     </span> 
 </p>
@@ -119,7 +119,7 @@ Other Tools: Microsoft Excel, Microsoft Excel Macros and VBA, Tableau, R Shiny, 
 ## Professional Development Opportunities
 
 <p class="exp_p" id="AlumniMentor">
-  <img src="/images/Alumni_Mentor.png" alt="DataFest Logo" class="exp_img">
+  <img src="/images/Alumni_Mentor.png" alt="AlumniMentor Logo" class="exp_img">
   <span class="exp_text"> <strong> UCLA Alumni Mentor Program </strong>  <br /> 
   <em> Westwood, California, USA </em> 
   </span>
