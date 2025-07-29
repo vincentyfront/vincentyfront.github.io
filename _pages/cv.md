@@ -18,7 +18,7 @@ My name is Vincenty (Vince) Front and I have a B.S. in Statistics and Data Scien
 ## Experience
 * April 2024 – Present: Clinical Data Analyst
   * Five Acres--The Boys' and Girls' Aid Society of Los Angeles
-  * Duties included: Maintaining data sytems, reporting data, data analysis and suggestions
+  * Duties included: Maintaining data sytems, reporting data, data analysis and teaching data literacy
   * Supervisor: Katherine Tsai
 
 * July 2022 – June 2023: Project Manager (Data Science Consulting)
@@ -87,10 +87,10 @@ My name is Vincenty (Vince) Front and I have a B.S. in Statistics and Data Scien
 
   ## Events
 
-  * [2024 TCOM Conference](https://vincentyfront.github.io/professional-experience/#2024TCOM)
-    * Role: Presenter
-    * Duration: October 2024
-    * Goal: Present findings on the effectivness of telehealth vs. in-person services
+* [2024 TCOM Conference](https://vincentyfront.github.io/professional-experience/#2024TCOM)
+  * Role: Presenter
+  * Duration: October 2024
+  * Goal: Present findings on the effectivness of telehealth vs. in-person services
 
 * [2023 UCLA DataFest](https://vincentyfront.github.io/professional-experience/#DataFest)
   * Role: Data Scientist
