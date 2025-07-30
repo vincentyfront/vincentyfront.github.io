@@ -116,7 +116,7 @@ Other Tools: Microsoft Excel, Microsoft Excel Macros and VBA, Tableau, R Shiny, 
     </span> 
 </p>
 
-## Professional Development Opportunities
+## Professional Development
 
 <p class="exp_p" id="AlumniMentor">
   <img src="/images/Alumni_Mentor.png" alt="AlumniMentor Logo" class="exp_img">

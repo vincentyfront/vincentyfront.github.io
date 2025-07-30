@@ -98,3 +98,12 @@ My name is Vincenty (Vince) Front and I have a B.S. in Statistics and Data Scien
   * Duration: April 2023
   * Goal: Competition where 4-6 person teams were given a dataset and 48 hours to provide the best analysis
   * Result: Selected as one of the 15 finalists from over 100 teams
+
+  ## Professional Development
+
+  ## Professional Development Opportunities
+
+  * [UCLA Alumni Mentor Program](https://vincentyfront.github.io/professional-experience/#AlumniMentor)
+  * Role: Alumni Mentor
+  * Duration: October 2024 - Present
+  * Goal: Provide professional guidance to current UCLA students
