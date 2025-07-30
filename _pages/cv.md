@@ -101,9 +101,7 @@ My name is Vincenty (Vince) Front and I have a B.S. in Statistics and Data Scien
 
   ## Professional Development
 
-  ## Professional Development Opportunities
-
   * [UCLA Alumni Mentor Program](https://vincentyfront.github.io/professional-experience/#AlumniMentor)
-  * Role: Alumni Mentor
-  * Duration: October 2024 - Present
-  * Goal: Provide professional guidance to current UCLA students
+    * Role: Alumni Mentor
+    * Duration: October 2024 - Present
+    * Goal: Provide professional guidance to current UCLA students
