@@ -56,6 +56,11 @@ My name is Vincenty (Vince) Front and I have a B.S. in Statistics and Data Scien
 
 ## Projects
 
+* [Examining Client Treatment Outcomes by Degree of EBP Utilization](https://vincentyfront.github.io/projects/#Proj7)
+  * Role: Data Analyst
+  * Duration: September 2025
+  * Goal: Determine if there is a difference in client improvement amogst EBP completion levels
+
 * [Examining the Effectiveness of Telehealth vs. In-Person Services for Children Using the CANS-IP](https://vincentyfront.github.io/projects/#Proj6)
   * Role: Data Analyst
   * Duration: September 2024 – October 2024
@@ -87,6 +92,11 @@ My name is Vincenty (Vince) Front and I have a B.S. in Statistics and Data Scien
   * Goal: Analyze and predict California's energy usage and air pollution during the COVID-19 pandemic
 
   ## Events
+
+* [2025 CIBHS EBP and CDEBP Conference](https://vincentyfront.github.io/professional-experience/#2025CIBHS)
+  * Role: Presenter
+  * Duration: September 2025
+  * Goal: Present findings on client treatment outcomes by degree of EBP utilization
 
 * [2024 TCOM Conference](https://vincentyfront.github.io/professional-experience/#2024TCOM)
   * Role: Presenter
