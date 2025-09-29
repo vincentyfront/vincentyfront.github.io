@@ -59,7 +59,7 @@ My name is Vincenty (Vince) Front and I have a B.S. in Statistics and Data Scien
 * [Examining Client Treatment Outcomes by Degree of EBP Utilization](https://vincentyfront.github.io/projects/#Proj7)
   * Role: Data Analyst
   * Duration: September 2025
-  * Goal: Determine if there is a difference in client improvement amogst EBP completion levels
+  * Goal: Determine if there is a difference in client improvement amongst EBP completion levels
 
 * [Examining the Effectiveness of Telehealth vs. In-Person Services for Children Using the CANS-IP](https://vincentyfront.github.io/projects/#Proj6)
   * Role: Data Analyst
