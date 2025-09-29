@@ -80,6 +80,24 @@ Other Tools: Microsoft Excel, Microsoft Excel Macros and VBA, Tableau, R Shiny, 
 
 ## Events
 
+<p class="exp_p" id="2025CIBHS">
+  <img src="/images/2025_CIBHS.png" alt="2025 CIBHS Logo" class="exp_img">
+  <span class="exp_text"> <strong> 2025 EBP and CDEBP Conference </strong>  <br /> 
+  <em> Burbank, California, USA </em> 
+  </span>
+</p>
+
+<p class="exp_p">
+    <span class="exp_text"> Presenter <br /> 
+    <em> September 2025 </em> 
+    <ul class="exp_ul">
+        <li>Found break down of outpatient clients that recieved and EBP or not and what their change in PSC-35 score was from initial to discharge</li>
+        <li>Used t-tests to validate results</li>
+        <li>Presented <a href="https://vincentyfront.github.io/files/2025_EBP_Poster.pdf">poster of our findings</a> with the Five Acres Research Team to over 250 people at the conference</li>
+    </ul> 
+    </span> 
+</p>
+
 <p class="exp_p" id="2024TCOM">
   <img src="/images/2024_TCOM.png" alt="2024 TCOM Logo" class="exp_img">
   <span class="exp_text"> <strong> 2024 TCOM Conference </strong>  <br /> 
