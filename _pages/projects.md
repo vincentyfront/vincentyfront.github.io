@@ -6,6 +6,18 @@ author_profile: true
 redirect_from:
 ---
 
+<p class="exp_p" id="Proj7">
+    <span class="exp_text"> <strong>Examining Client Treatment Outcomes by Degree of EBP Utilization</strong> <br />
+    Data Analyst <br />
+    <em>September 2025 </em> <br />
+    <ul class="exp_ul">
+        <li>Found break down of outpatient clients that recieved and EBP or not and what their change in PSC-35 score was from initial to discharge</li>
+        <li>Used statistically significant correlations and t-tests to validate results</li>
+        <li>Presented <a href="https://vincentyfront.github.io/files/2025_EBP_Poster.pdf">poster of our findings</a> with the Five Acres Research Team to over 250 people at the 2025 CIBHS EBP and CDEBP Conference</li>
+    </ul> 
+    </span> 
+</p>
+
 <p class="exp_p" id="Proj6">
     <span class="exp_text"> <strong>Examining the Effectiveness of Telehealth vs. In-Person Services for Children Using the CANS-IP</strong> <br />
     Data Analyst <br />
