@@ -93,7 +93,7 @@ My name is Vincenty (Vince) Front and I have a B.S. in Statistics and Data Scien
 
   ## Events
 
-* [2025 CIBHS EBP and CDEBP Conference](https://vincentyfront.github.io/professional-experience/#2025CIBHS)
+* [2025 CIBHS EBPs and CDEPs Conference](https://vincentyfront.github.io/professional-experience/#2025CIBHS)
   * Role: Presenter
   * Duration: September 2025
   * Goal: Present findings on client treatment outcomes by degree of EBP utilization
