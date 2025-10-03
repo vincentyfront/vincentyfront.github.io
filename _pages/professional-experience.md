@@ -82,7 +82,7 @@ Other Tools: Microsoft Excel, Microsoft Excel Macros and VBA, Tableau, R Shiny, 
 
 <p class="exp_p" id="2025CIBHS">
   <img src="/images/2025_CIBHS.png" alt="2025 CIBHS Logo" class="exp_img">
-  <span class="exp_text"> <strong> 2025 CIBHS EBP and CDEP Conference </strong>  <br /> 
+  <span class="exp_text"> <strong> 2025 CIBHS EBPs and CDEPs Conference </strong>  <br /> 
   <em> Burbank, California, USA </em> 
   </span>
 </p>

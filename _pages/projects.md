@@ -13,7 +13,7 @@ redirect_from:
     <ul class="exp_ul">
         <li>Found break down of outpatient clients that recieved and EBP or not and what their change in PSC-35 score was from initial to discharge</li>
         <li>Used statistically significant correlations and t-tests to validate results</li>
-        <li>Presented <a href="https://vincentyfront.github.io/files/2025_EBP_Poster.pdf">poster of our findings</a> with the Five Acres Research Team to over 250 people at the 2025 CIBHS EBP and CDEP Conference</li>
+        <li>Presented <a href="https://vincentyfront.github.io/files/2025_EBP_Poster.pdf">poster of our findings</a> with the Five Acres Research Team to over 250 people at the 2025 CIBHS EBPs and CDEPs Conference</li>
     </ul> 
     </span> 
 </p>
